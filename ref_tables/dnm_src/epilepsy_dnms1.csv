@@ -1,0 +1,862 @@
+﻿TRIO NOTES,PHENO,Child ID,TRIO ID,Trio Tally DNMs,Variant type,HGVSc,HGVSp,Gene,CCDS,Variant effect,hg19 coordinates (chr:position),Ref/Alt alleles,PolyPhen-2 Ensembl73 (HumVar),SIFT Ensembl73,GERP++,%RVIS a,PPI b,Known/New Gene c,Hot-Zone d,IPA: Synaptic Transmission e,Ion Channel (IUPHAR) f,MGI g,FMRP h,"Neurological disease trios, Gene Overlaps  [11 studies] i","Controls trios, Gene Overlaps  [7 studies] j",Known Variant: Exact mutation previously reported k
+Reported - Epi4K,IS,isnd27062aa1,aa,1,snv,ENST00000371741.3:c.1121C>T,ENSP00000360806.3:p.Thr374Ile,KCNB1,CCDS13418.1,missense,chr20:47990976,G/A,probably_damaging(0.999),deleterious(0),6.02,50.34,YES,-,-,-,YES,-,YES,-,-,-
+Reported - Epi4K,IS,isnd25793ac1,ac,1,snv,ENST00000379491.4:c.808A>G,ENSP00000368805.4:p.Arg270Gly,GCM2,CCDS4517.1,missense,chr6:10874941,T/C,benign(0.007),tolerated(0.07),-1.97,92.59,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd26087ad1,ad,1,snv,ENST00000362042.3:c.655G>A,ENSP00000354855.3:p.Glu219Lys,NFE2L1,CCDS11524.1,missense,chr17:46133892,G/A,benign(0.029),tolerated(0.47),5.41,3.78,-,-,-,-,-,-,-,-,YES: synonymous DNM,-
+Reported - Epi4K,IS,isnd24290af1,af,1,snv,ENST00000341747.3:c.20T>C,ENSP00000342709.3:p.Val7Ala,PRR19,CCDS33036.1,missense,chr19:42813756,T/C,benign(0),tolerated(0.95),0.523,53.73,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd27949ag1,ag,1,snv,ENST00000222270.7:c.4994T>C,ENSP00000222270.6:p.Met1665Thr,KMT2B (MLL4),CCDS46055.1,missense,chr19:36220944,T/C,benign(0.325),deleterious(0.044),5.37,1.12,YES,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd26900ah1,ah,1,snv,ENST00000368455.4:c.10A>C,ENSP00000357440.4:p.Ser4Arg,HSF2,CCDS5124.1,missense,chr6:122720892,A/C,benign(0.205),deleterious(0.02),4.23,13.33,-,-,-,-,-,-,-,-,-,-
+NEW - Epi4K,IS,isnd39531ahh1,ahh,1,snv,ENST00000333868.5:c.803A>G,ENSP00000330237.5:p.Asn268Ser,CASP9,CCDS158.1,missense,chr1:15831171,T/C,benign(0.127),tolerated(0.11),2.73,88.02,YES,-,-,-,-,-,-,-,-,-
+NEW - Epi4K,IS,isnd40144ahi1,ahi,2,indel,ENST00000327040:c.728_729delCA,ENSP00000324127:p.Val243AlafsTer42,PSD3,CCDS43720.1,"frameshift, feature truncation",chr8:18729644,GCA/G,N/A,-,N/A,60.97,YES,-,N/A,-,-,-,-,-,-,-
+NEW - Epi4K,IS,isnd40144ahi1,ahi,2,snv,ENST00000358025.3:c.1574T>G,ENSP00000350719.3:p.Phe525Cys,SYNE2,CCDS9761.2,missense,chr14:64447376,T/G,probably_damaging(0.997),deleterious(0),5.77,99.63,-,-,-,-,-,-,-,ASDx1,YES: 2x missense DNM,-
+NEW - Epi4K,IS,isnd38557ahj1,ahj,1,snv,ENST00000455915.2:c.422G>C,ENSP00000401470.2:p.Cys141Ser,RANGAP1,CCDS14012.1,missense,chr22:41660726,C/G,possibly_damaging(0.677),deleterious(0.01),5.51,28.11,YES,-,-,-,-,-,-,EEx1,-,-
+NEW - Epi4K,IS,isnd37548ahk1,ahk,1,snv,ENST00000247881.2:c.807C>T,ENST00000247881.2:c.807C>T(p.=),TAS2R4,CCDS5868.1,synonymous,chr7:141479095,C/T,silent (0),-,-3,94.89,-,-,-,-,-,-,-,-,-,-
+NEW - Epi4K,IS,isepgp014670ahl1,ahl,1,snv,ENST00000247138.5:c.502C>T,ENSP00000247138.5:p.Gln168X,SLC35A2,CCDS14311.1,stop gained,chrX:48762684,G/A,LoF (1),-,5.13,41.64,-,YES,-,-,-,-,-,EEx1,-,-
+NEW - Epi4K,IS,isnd37023ahm1,ahm,3,indel,ENST00000504087.1:c.3285delA,ENSP00000425658.1:p.Lys1095AsnfsX3,ANKRD50,CCDS34060.1,"frameshift, feature truncation",chr4:125591146,AT/A,N/A,-,N/A,2.39,-,-,N/A,-,-,-,-,SCZx1,-,-
+NEW - Epi4K,IS,isnd37023ahm1,ahm,3,snv,ENST00000376741.4:c.401C>T,ENSP00000365931.4:p.Ala134Val,SP2,CCDS11521.2,missense,chr17:45993838,C/T,benign(0.009),tolerated(1),3.96,11.28,-,-,-,-,-,-,-,SCZx1,-,-
+NEW - Epi4K,IS,isnd37023ahm1,ahm,3,snv,ENST00000367202.4:c.1015-2A>G,-,ETNK2,CCDS1442.2,splice acceptor,chr1:204103718,T/C,LoF (1),-,5.28,55.22,-,-,-,-,-,-,-,-,-,-
+NEW - Epi4K,IS,isnd37134ahn1,ahn,3,snv,ENST00000373187.1:c.3563G>A,ENSP00000362283.1:p.Arg1188His,PTPRT,CCDS42874.1,missense,chr20:40730915,C/T,benign(0.036),tolerated(0.24),4.55,7.87,-,-,-,-,-,-,YES,-,-,-
+NEW - Epi4K,IS,isnd37134ahn1,ahn,3,snv,ENST00000284476.6:c.4202C>A,ENSP00000284476.6:p.Ser1401X,DISP1,CCDS1536.1,stop gained,chr1:223178941,C/A,LoF (1),-,4.09,74.78,-,-,-,-,-,-,-,-,-,-
+NEW - Epi4K,IS,isnd37134ahn1,ahn,3,indel,ENST00000287143.2:c.364delG,ENSP00000287143.2:p.Ala122fs,PRG3,CCDS7954.1,"frameshift, feature truncation",chr11:57146977,GC/G,N/A,-,N/A,88.23,-,-,N/A,-,-,-,-,-,-,-
+NEW - Epi4K,IS,isnd37447ahp1,ahp,2,snv,ENST00000271643.4:c.2129G>A,ENSP00000271643.4:p.Arg710Lys,ADAMTSL4,CCDS955.1,missense,chr1:150530051,G/A,benign(0.386),tolerated(0.5),4,53.51,-,-,-,-,-,-,-,-,-,-
+NEW - Epi4K,IS,isnd37447ahp1,ahp,2,snv,ENST00000395741.3:c.800T>C,ENSP00000379090.3:p.Val267Ala,PPP6R2,CCDS56235.1,missense,chr22:50857843,T/C,possibly_damaging(0.601),deleterious(0),5.63,85.31,-,-,-,-,-,-,YES,-,-,-
+NEW - Epi4K,IS,isnd37431ahq1,ahq,1,snv,ENST00000270176.5:c.1116+1G>T,-,SCYL1,CCDS41672.1,splice donor,chr11:65299155,G/T,LoF (1),-,5.17,78.83,-,-,-,-,-,-,-,ASDx1,-,-
+NEW - Epi4K,IS,isnd37295ahr1,ahr,2,snv,ENST00000263056.1:c.1223G>A,ENSP00000263056.1:p.Arg408His,MAP3K8,CCDS7166.1,missense,chr10:30748380,G/A,possibly_damaging(0.447),deleterious(0.05),4,10.30,YES,-,-,-,-,-,-,-,-,-
+NEW - Epi4K,IS,isnd37295ahr1,ahr,2,snv,ENST00000460472.2:c.16917C>T,ENST00000460472.2:c.16917C>T(p.=),TTN,CCDS54421.1,synonymous,chr2:179495573,G/A,silent (0),-,2.32,98.04,YES,-,-,-,-,-,-,ASDx4; EEx2,YES: 2x missense DNM,-
+NEW - Epi4K,IS,isnd37900aht1,aht,2,snv,ENST00000374518.4:c.2081A>G,ENSP00000363642.4:p.Tyr694Cys,BMS1,CCDS7199.1,missense,chr10:43292963,A/G,probably_damaging(0.997),deleterious(0),5.36,60.76,-,-,-,-,-,-,-,-,-,-
+NEW - Epi4K,IS,isnd37900aht1,aht,2,snv,ENST00000261944.5:c.2887G>A,ENSP00000261944.5:p.Val963Ile,CDHR2,CCDS34297.1,missense,chr5:176016062,G/A,benign(0.003),tolerated(0.36),1.96,90.12,-,-,-,-,-,-,-,-,-,-
+NEW - Epi4K,IS,isnd38771ahv1,ahv,1,snv,ENST00000283256.6:c.4264A>G,ENSP00000283256.6:p.Lys1422Glu,SCN2A,CCDS33314.1,missense,chr2:166234116,A/G,probably_damaging(0.997),deleterious(0),5.55,1.77,YES,YES,YES,YES,YES,-,YES,ASDx3; EEx2; severeIDx4; SCZx1,-,"Spasms, infantile, and bitemporal glucose hypometabolism : Sundaram : 2013 : PMID23827426"
+NEW - Epi4K,IS,isnd38667ahw1,ahw,1,snv,ENST00000409535.1:c.2846A>G,ENSP00000386520.1:p.Glu949Gly,RAD54L2,CCDS33765.2,missense,chr3:51680317,A/G,probably_damaging(0.991),deleterious(0),5.6,4.31,-,-,YES,-,-,-,-,SCZx2,-,-
+NEW - Epi4K,IS,isnd38644ahx1,ahx,2,snv,ENST00000371752.1:c.1225C>T,ENSP00000360817.1:p.Arg409X,ZNFX1,CCDS13417.1,stop gained,chr20:47887124,G/A,LoF (1),-,5.72,24.22,-,-,YES,-,-,-,YES,-,-,-
+NEW - Epi4K,IS,isnd38644ahx1,ahx,2,snv,ENST00000552864.1:c.611G>T,ENSP00000447488.1:p.Arg204Leu,LIN7A,CCDS9021.1,missense,chr12:81205335,C/A,possibly_damaging(0.77),deleterious(0),5.28,41.25,YES,-,-,YES,-,-,-,-,-,-
+NEW - Epi4K,IS,isnd37868ahy1,ahy,3,snv,ENST00000301180.5:c.2581G>A,ENSP00000301180.5:p.Val861Met,DIP2B,CCDS31799.1,missense,chr12:51102277,G/A,possibly_damaging(0.698),deleterious(0),5.09,2.19,-,-,-,-,-,-,YES,-,YES: missense DNM,-
+NEW - Epi4K,IS,isnd37868ahy1,ahy,3,snv,ENST00000359125.2:c.1741C>G,ENSP00000352035.2:p.Arg581Gly,KCNQ2,CCDS13520.1,missense,chr20:62044825,G/C,probably_damaging(1),deleterious(0),4,15.86,YES,YES,YES,YES,YES,YES,YES,EEx1,-,"#DiffMutantAllele [A] : Epilepsy, benign neonatal : Singh : 2003 : PMID14534157"
+NEW - Epi4K,IS,isnd37868ahy1,ahy,3,snv,ENST00000224140.5:c.4025T>G,ENSP00000224140.5:p.Leu1342Arg,SETX,CCDS6947.1,missense,chr9:135202960,A/C,possibly_damaging(0.868),deleterious(0),4.6,42.88,-,-,-,-,-,-,YES,-,-,-
+Reported - Epi4K,IS,isnd26970ai1,ai,1,snv,ENST00000371553.3:c.2003A>C,ENSP00000360608.3:p.Tyr668Ser,GRIN1,CCDS55354.1,missense,chr9:140057118,A/C,probably_damaging(1),deleterious(0),3.37,6.72,YES,-,YES,YES,YES,-,YES,-,-,-
+NEW - Epi4K,IS,isnd39001aib1,aib,1,snv,ENST00000343216.3:c.744G>A,ENST00000343216.3:c.744G>A(p.=),CXXC11,CCDS42843.1,synonymous,chr2:242814451,G/A,silent (0),-,-0.174,86.33,-,-,-,-,-,-,-,severeIDx1,-,-
+NEW - Epi4K,IS,isnd38199aic1,aic,1,snv,ENST00000418153.2:c.1606-2A>G,-,PHF21A,CCDS44578.1,splice acceptor,chr11:45958122,T/C,LoF (1),-,5.74,17.31,-,-,YES,-,-,-,-,-,-,-
+NEW - Epi4K,IS,isnd38466aid1,aid,4,snv,ENST00000288319.7:c.1346C>A,ENSP00000288319.7:p.Pro449Gln,ERG,CCDS13658.1,missense,chr21:39755419,G/T,probably_damaging(0.949),tolerated(0.17),5.36,17.91,YES,-,-,-,-,-,-,-,-,-
+NEW - Epi4K,IS,isnd38466aid1,aid,4,snv,ENST00000380249.1:c.2889T>G,ENST00000380249.1:c.2889T>G(p.=),FOCAD,CCDS34993.1,synonymous,chr9:20923695,T/G,silent (0),-,1.07,39.26,-,-,-,-,-,-,-,-,-,-
+NEW - Epi4K,IS,isnd38466aid1,aid,4,snv,ENST00000437635.2:c.58G>C,ENSP00000418983.1:p.Asp20His,C6orf222,CCDS34439.1,missense,chr6:36298410,C/G,probably_damaging(0.986),deleterious(0),4.98,42.30,-,-,-,-,-,-,-,SCZx1,-,-
+NEW - Epi4K,IS,isnd38466aid1,aid,4,snv,ENST00000371538.3:c.7G>C,ENSP00000360593.3:p.Gly3Arg,SELRC1,CCDS570.1,missense,chr1:53163992,C/G,probably_damaging(0.999),deleterious(0),5.93,68.98,-,-,-,-,-,-,-,-,-,-
+NEW - Epi4K,IS,isnd38558aie1,aie,2,snv,ENST00000367545.3:c.9869G>A,ENSP00000356515.3:p.Arg3290Gln,UTRN,CCDS34547.1,missense,chr6:145157481,G/A,benign(0.147),tolerated(0.21),2.45,3.26,YES,-,-,YES,-,-,-,SCZx1,YES: missense DNM,-
+NEW - Epi4K,IS,isnd38558aie1,aie,2,snv,ENST00000443236.1:c.1954C>T,ENSP00000402505.2:p.Arg652Trp,CPAMD8,CCDS42519.1,missense,chr19:17086907,G/A,probably_damaging(0.939),deleterious(0.01),-2.79,98.55,-,-,-,-,-,-,-,-,-,-
+NEW - Epi4K,IS,isnd38653aig1,aig,2,snv,ENST00000430297.2:c.1252C>G,ENSP00000395249.2:p.Pro418Ala,FAM134A,CCDS2434.1,missense,chr2:220046971,C/G,benign(0.048),tolerated(0.27),2.39,80.20,-,-,-,-,-,-,-,-,-,-
+NEW - Epi4K,IS,isnd38653aig1,aig,2,snv,ENST00000319286.5:c.1424A>T,ENSP00000319305.5:p.Lys475Ile,ZNF572,CCDS6354.1,missense,chr8:125989934,A/T,probably_damaging(0.998),deleterious(0),2.73,86.75,-,-,-,-,-,-,-,-,-,-
+NEW - Epi4K,IS,isnd38461aii1,aii,2,snv,ENST00000339364.5:c.1258G>A,ENSP00000339826.5:p.Glu420Lys,PIK3AP1,CCDS31259.1,missense,chr10:98405347,C/T,possibly_damaging(0.878),tolerated(0.05),5.81,57.48,-,-,-,-,-,-,-,EEx1,-,-
+NEW - Epi4K,IS,isnd38461aii1,aii,2,snv,ENST00000315475.6:c.917G>A,ENSP00000324064.6:p.Gly306Asp,ZNF354C,CCDS4443.1,missense,chr5:178506350,G/A,possibly_damaging(0.895),deleterious(0.02),2.92,93.39,-,-,-,-,-,-,-,-,-,-
+NEW - Epi4K,IS,isnd38835aik1,aik,1,snv,ENST00000325366.9:c.1268T>C,ENSP00000326879.9:p.Leu423Pro,C5orf22,CCDS3895.1,missense,chr5:31552948,T/C,probably_damaging(0.999),deleterious(0),5.73,86.17,-,-,-,-,-,-,-,-,-,-
+NEW - Epi4K,IS,isnd38947ail1,ail,2,snv,ENST00000303887.5:c.1087G>C,ENSP00000307288.5:p.Asp363His,MCM7,CCDS5683.1,missense,chr7:99695267,C/G,probably_damaging(0.985),tolerated(0.19),5.12,5.31,YES,-,YES,-,-,-,-,-,-,-
+NEW - Epi4K,IS,isnd38947ail1,ail,2,snv,ENST00000303887.5:c.639C>A,ENST00000303887.5:c.639C>A(p.=),MCM7,CCDS5683.1,synonymous,chr7:99696282,G/T,silent (0),-,3.11,5.31,YES,-,-,-,-,-,-,-,-,-
+NEW - Epi4K,IS,isnd39695ain1,ain,2,snv,ENST00000228510.3:c.33G>C,ENST00000228510.3:c.33G>C(p.=),MVK,CCDS9132.1,synonymous,chr12:110012660,G/C,silent (0),-,-7.63,38.98,-,-,-,-,-,-,-,-,-,-
+NEW - Epi4K,IS,isnd39695ain1,ain,2,snv,ENST00000368078.3:c.1149C>T,ENST00000368078.3:c.1149C>T(p.=),CASQ1,CCDS1198.2,synonymous,chr1:160171124,C/T,silent (0),-,-9.53,82.74,-,-,-,-,-,-,-,-,-,-
+NEW - Epi4K,IS,isnd39284aip1,aip,3,snv,ENST00000246841.3:c.1362G>A,ENST00000246841.3:c.1362G>A(p.=),FLRT1,CCDS8057.1,synonymous,chr11:63885101,G/A,silent (0),-,-10.8,14.78,-,-,-,-,-,-,-,-,-,-
+NEW - Epi4K,IS,isnd39284aip1,aip,3,snv,ENST00000265843.4:c.637G>A,ENSP00000265843.4:p.Asp213Asn,EXPH5,CCDS8341.1,missense,chr11:108385597,C/T,probably_damaging(0.997),deleterious(0.01),5.77,99.69,-,-,-,-,-,-,-,-,-,-
+NEW - Epi4K,IS,isnd39284aip1,aip,3,snv,ENST00000222122.5:c.173T>C,ENSP00000222122.4:p.Leu58Pro,DBP,CCDS12728.1,missense,chr19:49139214,A/G,benign(0),tolerated(0.25),-2.84,Unassessed,YES,-,N/A,-,-,-,-,-,-,-
+NEW - Epi4K,IS,isnd39196aiq1,aiq,2,snv,ENST00000304613.3:c.336C>T,ENST00000304613.3:c.336C>T(p.=),KNDC1,CCDS7674.1,synonymous,chr10:134981792,C/T,silent (0),-,-8.28,91.86,-,-,-,-,-,-,YES,-,-,-
+NEW - Epi4K,IS,isnd39196aiq1,aiq,2,snv,ENST00000521871.1:c.1474C>T,ENSP00000428646.1:p.Arg492X,FBXO41,CCDS46337.2,stop gained,chr2:73492500,G/A,LoF (1),-,4.5,Unassessed,-,-,N/A,-,-,-,YES,-,-,-
+NEW - Epi4K,IS,isnd39474ais1,ais,2,snv,ENST00000260983.2:c.3597C>A,ENSP00000260983.2:p.Asn1199Lys,HECW2,CCDS33354.1,missense,chr2:197106861,G/T,possibly_damaging(0.809),tolerated(0.06),3.87,0.98,-,-,-,-,-,-,-,-,-,-
+NEW - Epi4K,IS,isnd39474ais1,ais,2,snv,ENST00000366774.3:c.122A>G,ENSP00000355736.3:p.Tyr41Cys,TCTE3,CCDS5310.1,missense,chr6:170144369,T/C,probably_damaging(0.996),deleterious(0),5.65,69.21,-,-,-,-,-,-,-,-,-,-
+NEW - Epi4K,IS,isnd39708ait1,ait,1,snv,ENST00000298139.5:c.3411T>C,ENST00000298139.5:c.3411T>C(p.=),WRN,CCDS6082.1,synonymous,chr8:31004596,T/C,silent (0),-,1.98,84.95,YES,-,-,-,-,-,-,SCZx1,YES: synonymous DNM,-
+NEW - Epi4K,IS,isnd39838aiu1,aiu,3,snv,ENST00000344836.4:c.1581T>C,ENST00000344836.4:c.1581T>C(p.=),USP7,CCDS32385.1,synonymous,chr16:8998415,A/G,silent (0),-,0.256,4.67,YES,-,-,-,-,-,-,SCZx1,-,-
+NEW - Epi4K,IS,isnd39838aiu1,aiu,3,snv,ENST00000509479.2:c.2056G>A,ENSP00000421180.1:p.Ala686Thr,MAML3,CCDS54805.1,missense,chr4:140810534,C/T,benign(0.001),tolerated(0.26),1.38,55.83,-,-,-,-,-,-,-,-,YES: missense DNM,-
+NEW - Epi4K,IS,isnd39838aiu1,aiu,3,snv,ENST00000317582.5:c.1221G>T,ENST00000317582.5:c.1221G>T(p.=),BCL2L13,CCDS13746.1,synonymous,chr22:18210063,G/T,silent (0),-,-2.27,80.20,-,-,-,-,-,-,-,-,-,-
+NEW - Epi4K,IS,isnd40021aiv1,aiv,2,snv,ENST00000219481.5:c.559G>T,ENSP00000219481.5:p.Ala187Ser,DECR2,CCDS10409.1,missense,chr16:460974,G/T,probably_damaging(0.927),tolerated(0.05),5.5,36.17,YES,-,-,-,-,-,-,-,-,-
+NEW - Epi4K,IS,isnd40021aiv1,aiv,2,snv,ENST00000310053.5:c.1464C>T,ENST00000310053.5:c.1464C>T(p.=),HLTF,CCDS33875.1,synonymous,chr3:148773099,G/A,silent (0),-,5.33,90.19,YES,-,-,-,-,-,-,ASDx1,-,-
+NEW - Epi4K,IS,isnd37357aiw1,aiw,1,snv,ENST00000300022.3:c.231G>A,ENST00000300022.3:c.231G>A(p.=),YPEL4,CCDS7963.1,synonymous,chr11:57413833,C/T,silent (0),-,-2.58,52.85,-,-,-,-,-,-,-,-,-,-
+NEW - Epi4K,LGS,lgsnd37555aix1,aix,4,snv,ENST00000229971.1:c.1540T>C,ENSP00000229971.1:p.Trp514Arg,FBXL4,CCDS5041.1,missense,chr6:99323453,A/G,possibly_damaging(0.717),deleterious(0),5.82,9.55,-,-,-,-,-,-,-,-,-,-
+NEW - Epi4K,LGS,lgsnd37555aix1,aix,4,snv,ENST00000372923.3:c.1076G>C,ENSP00000362014.3:p.Gly359Ala,DNM1,CCDS6895.1,missense,chr9:130984823,G/C,probably_damaging(0.998),deleterious(0),5.88,19.54,YES,YES,YES,YES,-,YES,YES,EEx4,-,-
+NEW - Epi4K,LGS,lgsnd37555aix1,aix,4,snv,ENST00000381750.4:c.526G>T,ENSP00000371169.4:p.Val176Phe,RCL1,CCDS6456.1,missense,chr9:4834207,G/T,benign(0.001),tolerated(0.44),2.97,76.31,-,-,-,-,-,-,-,-,-,-
+NEW - Epi4K,LGS,lgsnd37555aix1,aix,4,snv,ENST00000600132.1:c.988C>T,ENSP00000471252.1:p.Arg330Trp,ANKRD24,CCDS45925.1,missense,chr19:4210298,C/T,probably_damaging(0.909),deleterious(0),2.11,97.23,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd26974aj1,aj,1,snv,ENST00000279463.3:c.970G>A,ENSP00000279463.3:p.Ala324Thr,CNTN5,CCDS53696.1,missense,chr11:99872858,G/A,probably_damaging(1),deleterious(0),5.68,47.22,-,-,-,-,-,YES,-,-,-,-
+NEW - Epi4K,LGS,lgsnd37535aja1,aja,1,indel,ENST00000331327.3:c.810_812delCTT,ENSP00000332706.3:p.Phe271del,PURA,CCDS4220.1,inframe deletion,chr5:139494575,CCTT/C,N/A,-,N/A,44.54,YES,-,N/A,-,-,YES,-,-,-,-
+NEW - Epi4K,LGS,lgsnd37855ajb1,ajb,4,snv,ENST00000379446.5:c.2354A>G,ENSP00000368759.5:p.Glu785Gly,NEDD9,CCDS4520.1,missense,chr6:11185546,T/C,possibly_damaging(0.815),deleterious(0),6.11,28.22,YES,-,-,-,-,-,-,-,-,-
+NEW - Epi4K,LGS,lgsnd37855ajb1,ajb,4,snv,ENST00000379446.5:c.2353G>T,ENSP00000368759.5:p.Glu785X,NEDD9,CCDS4520.1,stop gained,chr6:11185547,C/A,LoF (1),-,6.11,28.22,YES,-,-,-,-,-,-,-,-,-
+NEW - Epi4K,LGS,lgsnd37855ajb1,ajb,4,snv,ENST00000318602.7:c.2335G>C,ENSP00000323929.7:p.Gly779Arg,A2M,CCDS44827.1,missense,chr12:9243931,C/G,probably_damaging(0.998),deleterious(0),5.28,60.76,YES,-,-,-,-,-,-,-,-,-
+NEW - Epi4K,LGS,lgsnd37855ajb1,ajb,4,snv,ENST00000375121.2:c.270C>T,ENST00000375121.2:c.270C>T(p.=),RNF186,CCDS199.1,synonymous,chr1:20141325,G/A,silent (0),-,-11.5,85.10,-,-,-,-,-,-,-,-,-,-
+NEW - Epi4K,LGS,lgsnd38132ajc1,ajc,3,snv,ENST00000378503.1:c.58C>T,ENSP00000367764.1:p.Arg20Cys,FRMD4A,CCDS7101.1,missense,chr10:13900900,G/A,probably_damaging(0.998),deleterious(0),5.4,3.17,-,-,YES,-,-,-,-,-,-,-
+NEW - Epi4K,LGS,lgsnd38132ajc1,ajc,3,snv,ENST00000502702.1:c.1271C>T,ENSP00000426725.1:p.Pro424Leu,WDR1,CCDS54739.1,missense,chr4:10078951,G/A,possibly_damaging(0.594),deleterious(0),5.85,18.90,YES,-,-,-,-,-,-,-,-,-
+NEW - Epi4K,LGS,lgsnd38132ajc1,ajc,3,snv,ENST00000370007.4:c.1142C>G,ENSP00000359024.4:p.Ala381Gly,NOLC1,CCDS7530.1,missense,chr10:103920251,C/G,benign(0.025),tolerated(0.25),-0.754,50.34,YES,-,-,-,-,-,-,-,-,-
+NEW - Epi4K,LGS,lgsnd38656ajd1,ajd,1,snv,ENST00000477399.1:c.263G>A,ENSP00000425282.1:p.Arg88Lys,LEKR1,CCDS54660.1,missense,chr3:156570771,G/A,probably_damaging(0.952),tolerated(0.19),5.38,74.76,-,-,-,-,-,-,-,-,-,-
+NEW - Epi4K,LGS,lgsnd38610ajf1,ajf,1,indel,ENST00000357328.4:c.1461_1462delAG,ENSP00000349882.4:p.Lys490ThrfsX5,ZNF248,CCDS7194.1,"frameshift, feature truncation",chr10:38120820,CCT/C,N/A,-,N/A,32.06,-,-,N/A,-,-,-,-,-,-,-
+NEW - Epi4K,LGS,lgsnd39737ajh1,ajh,2,snv,ENST00000267484.5:c.1786C>T,ENSP00000267484.5:p.Arg596Trp,RTN1,CCDS9740.1,missense,chr14:60074190,G/A,probably_damaging(1),deleterious(0),3.16,63.57,YES,-,-,-,-,-,YES,-,-,-
+NEW - Epi4K,LGS,lgsnd39737ajh1,ajh,2,snv,ENST00000285848.5:c.984A>G,ENST00000285848.5:c.984A>G(p.=),OXA1L,CCDS9573.1,synonymous,chr14:23239804,A/G,silent (0),-,-0.785,89.86,-,-,-,-,-,-,-,-,-,-
+NEW - Epi4K,LGS,lgsnd39606ajj1,ajj,2,snv,ENST00000265340.6:c.793G>A,ENSP00000265340.6:p.Gly265Ser,PITX1,CCDS4182.1,missense,chr5:134364621,C/T,possibly_damaging(0.798),tolerated(0.14),4.14,43.29,-,-,-,-,-,-,-,-,-,-
+NEW - Epi4K,LGS,lgsnd39606ajj1,ajj,2,snv,ENST00000262577.5:c.68C>T,ENSP00000262577.5:p.Thr23Ile,ZC3H3,CCDS6402.1,missense,chr8:144621469,G/A,benign(0.263),deleterious(0),-0.769,98.86,-,-,-,-,-,-,-,-,-,-
+NEW - Epi4K,IS,isnd37747ajk1,ajk,2,snv,ENST00000392507.3:c.329G>T,ENSP00000376295.3:p.Arg110Leu,OSBPL7,CCDS11515.1,missense,chr17:45896392,C/A,probably_damaging(0.994),tolerated(0.14),5.35,11.45,-,-,YES,-,-,-,-,-,-,-
+NEW - Epi4K,IS,isnd37747ajk1,ajk,2,snv,ENST00000333628.3:c.737T>G,ENSP00000369703.2:p.Leu246Arg,TUBB2A,CCDS4484.1,missense,chr6:3154698,A/C,probably_damaging(0.929),-,4.97,44.54,YES,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd30086ak1,ak,2,snv,ENST00000405201.1:c.3349G>A,ENSP00000384018.1:p.Val1117Ile,NCOR2,CCDS41858.2,missense,chr12:124840010,C/T,possibly_damaging(0.877),deleterious(0.028),3.04,0.82,YES,-,-,-,-,-,YES,SCZx2,-,-
+Reported - Epi4K,IS,isnd30086ak1,ak,2,snv,ENST00000256246.2:c.7497A>G,ENST00000256246.2:c.7497A>G(p.=),TEX15,CCDS6080.1,synonymous,chr8:30695154,T/C,silent (0),-,3.19,98.91,-,-,-,-,-,-,-,SCZx1,-,-
+Reported - Epi4K,IS,isnd27732an1,an,2,snv,ENST00000354534.4:c.641G>A,ENSP00000346534.4:p.Gly214Asp,SCN8A,CCDS44891.1,missense,chr12:52082568,G/A,probably_damaging(0.999),deleterious(0.03),5.2,2.34,YES,YES,YES,YES,YES,-,YES,EEx1; severeIDx1,-,-
+Reported - Epi4K,IS,isnd27732an1,an,2,snv,ENST00000455915.2:c.974A>T,ENSP00000401470.2:p.Lys325Met,RANGAP1,CCDS14012.1,missense,chr22:41652209,T/A,benign(0.113),deleterious(0.01),5.25,28.11,YES,-,-,-,-,-,-,EEx1,-,-
+Reported - Epi4K,IS,isnd27935ar1,ar,1,snv,ENST00000444819.1:c.875C>T,ENSP00000414232.1:p.Thr292Ile,GABRA1,CCDS4357.1,missense,chr5:161322690,C/T,probably_damaging(0.999),deleterious(0),5.8,24.00,YES,YES,YES,YES,YES,YES,-,-,-,-
+NEW - Epi4K (trio reported),IS,isnd28472at1,at,2,snv,ENST00000281513.5:c.1992A>C,ENSP00000281513.5:p.Glu664Asp,NBAS,CCDS1685.1,missense,chr2:15607814,T/G,benign(0.007),tolerated(0.08),-1.63,37.33,-,-,-,-,-,-,-,-,-,-
+NEW - Epi4K (trio reported),IS,isnd28472at1,at,2,snv,ENST00000278612.8:c.4153T>C,ENSP00000278612.8:p.Ser1385Pro,NPAT,CCDS41710.1,missense,chr11:108031660,A/G,probably_damaging(0.997),deleterious(0.03),4,83.58,YES,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd28661av1,av,2,snv,ENST00000280886.6:c.3739A>G,ENSP00000280886.6:p.Thr1247Ala,DIP2C,CCDS7054.1,missense,chr10:375387,T/C,benign(0.231),tolerated(0.15),5.85,0.29,-,-,-,-,-,-,YES,EEx1,-,-
+Reported - Epi4K,IS,isnd28661av1,av,2,snv,ENST00000260570.3:c.4815+1G>A,-,IFT172,CCDS1755.1,splice donor,chr2:27668795,C/T,LoF (1),-,5.2,1.86,-,-,YES,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd29844az1,az,1,snv,ENST00000456733.2:c.1179G>A,ENST00000456733.2:c.1179G>A(p.=),SYTL5,CCDS55399.1,synonymous,chrX:37962302,G/A,silent (0),-,3.56,81.63,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd21451b1,b,4,snv,ENST00000371757.2:c.2771C>T,ENSP00000360822.2:p.Pro924Leu,KCNT1,CCDS35175.2,missense,chr9:138671246,C/T,possibly_damaging(0.876),deleterious(0),3.77,1.62,-,YES,-,-,YES,-,YES,-,-,-
+Reported - Epi4K,IS,isnd21451b1,b,4,snv,ENST00000346333.6:c.287C>T,ENSP00000325662.8:p.Ala96Val,FAM86C1,CCDS8202.1,missense,chr11:71507190,C/T,probably_damaging(0.926),deleterious(0),1.49,80.01,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd21451b1,b,4,snv,ENST00000367822.5:c.1547G>A,ENSP00000356796.5:p.Arg516Gln,HBS1L,CCDS47480.1,missense,chr6:135358048,C/T,benign(0.01),tolerated(0.15),1.53,93.25,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd21451b1,b,4,snv,ENST00000261590.8:c.1755C>T,ENST00000261590.8:c.1755C>T(p.=),DSG2,CCDS42423.1,synonymous,chr18:29118817,C/T,silent (0),-,-0.318,98.32,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd31134ba1,ba,1,snv,ENST00000392341.1:c.166G>A,ENSP00000376152.1:p.Gly56Ser,SLC16A3,CCDS11804.1,missense,chr17:80194050,G/A,probably_damaging(0.995),tolerated(1),4.14,16.68,-,-,YES,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd29057be1,be,1,snv,ENST00000313683.10:c.1180G>C,ENSP00000318131.10:p.Gly394Arg,PNMAL1,CCDS33059.1,missense,chr19:46973113,C/G,probably_damaging(0.922),deleterious(0.01),0.359,55.61,-,-,-,-,-,-,-,-,-,-
+NEW - Epi4K (trio reported),IS,isnd29047bf1,bf,1,snv,ENST00000314606.4:c.883C>T,ENSP00000320309.3:p.Arg295Trp,FARSA,CCDS12287.1,missense,chr19:13035947,G/A,probably_damaging(0.996),deleterious(0),5.85,58.96,YES,-,-,-,-,-,-,SCZx1,-,-
+Reported - Epi4K,IS,isnd29900bg1,bg,2,snv,ENST00000283256.6:c.2558G>A,ENSP00000283256.6:p.Arg853Gln,SCN2A,CCDS33314.1,missense,chr2:166198975,G/A,probably_damaging(0.983),deleterious(0),5.48,1.77,YES,YES,YES,YES,YES,-,YES,ASDx3; EEx2; severeIDx4; SCZx1,-,Epileptic Encephalopathies : Epi4K : 2013: PMID23934111
+Reported - Epi4K,IS,isnd29900bg1,bg,2,snv,ENST00000292450.4:c.225G>A,ENST00000292450.4:c.225G>A(p.=),ZSCAN21,CCDS5681.1,synonymous,chr7:99654854,G/A,silent (0),-,3.04,27.88,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd29258bl3,bl,1,snv,ENST00000339364.5:c.1756A>T,ENSP00000339826.5:p.Arg586Trp,PIK3AP1,CCDS31259.1,missense,chr10:98380294,T/A,probably_damaging(0.962),deleterious(0),4.46,57.48,-,-,-,-,-,-,-,EEx1,-,-
+Reported - Epi4K,IS,isnd29267bm1,bm,1,snv,ENST00000245960.5:c.1135G>A,ENSP00000245960.5:p.Asp379Asn,CDC25B,CCDS13067.1,missense,chr20:3782964,G/A,benign(0.195),tolerated(0.46),4.44,6.48,YES,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd29319bo1,bo,1,snv,ENST00000291971.3:c.2812G>A,ENSP00000291971.3:p.Asp938Asn,NLRP8,CCDS12937.1,missense,chr19:56487605,G/A,probably_damaging(0.978),tolerated(0.27),-0.826,97.25,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd29810bq1,bq,1,snv,ENST00000338081.3:c.946C>T,ENSP00000337697.3:p.Gln316X,DCX,CCDS14556.1,stop gained,chrX:110644220,G/A,LoF (1),-,4.75,46.20,YES,-,-,-,-,-,-,-,YES: missense DNM,Double cortex syndrome : des Portes : 1998 : PMID9618162
+Reported - Epi4K,IS,isnd29352br1,br,4,snv,ENST00000355540.3:c.11183G>A,ENSP00000347733.3:p.Arg3728Gln,TRRAP,CCDS5659.1,missense,chr7:98609133,G/A,probably_damaging(1),deleterious(0.02),5.67,0.04,YES,-,YES,-,-,-,YES,ASDx1; SCZx1,-,-
+Reported - Epi4K,IS,isnd29352br1,br,4,snv,ENST00000360049.4:c.1300G>A,ENSP00000353154.4:p.Val434Ile,NFASC,CCDS30982.1,missense,chr1:204942535,G/A,possibly_damaging(0.676),tolerated(0.25),5.28,2.21,YES,-,-,YES,-,-,-,ASDx1,-,-
+Reported - Epi4K,IS,isnd29352br1,br,4,snv,ENST00000404138.1:c.456A>G,ENST00000404138.1:c.456A>G(p.=),ZBTB40,CCDS224.1,synonymous,chr1:22816897,A/G,silent (0),-,1.55,16.74,-,-,-,-,-,-,-,SCZx1,-,-
+Reported - Epi4K,IS,isnd29352br1,br,4,snv,ENST00000336418.4:c.195C>G,ENSP00000338777.4:p.Tyr65X,AP3S2,CCDS10357.1,stop gained,chr15:90431831,G/C,LoF (1),-,1.3,39.95,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd29366bs1,bs,2,snv,ENST00000361125.1:c.344G>A,ENSP00000354621.1:p.Arg115His,SMURF1,CCDS34690.1,missense,chr7:98654887,C/T,probably_damaging(0.996),tolerated(0.06),5.68,4.39,YES,-,YES,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd29366bs1,bs,2,snv,ENST00000409678.3:c.476C>T,ENSP00000387310.3:p.Thr159Ile,NOTUM,CCDS32771.2,missense,chr17:79916868,G/A,probably_damaging(0.911),deleterious(0.03),4.9,23.43,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd29377bt1,bt,1,snv,ENST00000520004.1:c.1322G>T,ENSP00000428054.1:p.Gly441Val,SGK223,CCDS43706.1,missense,chr8:8234597,C/A,possibly_damaging(0.463),deleterious(0.01),-1.7,54.13,-,-,-,-,-,-,-,-,YES: missense DNM,-
+Reported - Epi4K,IS,isnd29378bu1,bu,1,snv,ENST00000367341.1:c.101G>A,ENSP00000356310.1:p.Cys34Tyr,RAET1L,CCDS5224.1,missense,chr6:150343364,C/T,benign(0.351),tolerated(0.08),-3.36,99.11,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd29514bw1,bw,1,snv,ENST00000346177.6:c.5755A>G,ENSP00000344002.6:p.Met1919Val,FLNC,CCDS47705.1,missense,chr7:128492656,A/G,benign(0.002),tolerated(0.32),5.97,0.29,YES,-,-,-,-,-,-,-,-,-
+NEW - Epi4K (trio reported),IS,isnd28752bx1,bx,2,snv,ENST00000589093.1:c.185G>A,ENSP00000466285.1:p.Gly62Glu,NLRP11,CCDS12935.1,missense,chr19:56329356,C/T,probably_damaging(0.94),tolerated(0.73),-5.68,32.27,-,-,-,-,-,-,-,ASDx1,-,-
+NEW - Epi4K (trio reported),IS,isnd28752bx1,bx,2,snv,ENST00000262085.3:c.730C>T,ENSP00000262085.3:p.Pro244Ser,ZNF282,CCDS5895.1,missense,chr7:148904460,C/T,benign(0.001),tolerated(1),2.04,33.20,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd29866by3,by,3,snv,ENST00000373434.1:c.995C>T,ENSP00000362533.1:p.Pro332Leu,RALGPS1,CCDS55346.1,missense,chr9:129957454,C/T,benign(0.073),tolerated(0.08),4.98,32.94,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd29866by3,by,3,snv,ENST00000397110.2:c.453G>C,ENSP00000380299.2:p.Lys151Asn,C1QTNF6,CCDS13943.1,missense,chr22:37578612,C/G,possibly_damaging(0.832),deleterious(0.01),4.12,91.58,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd29866by3,by,3,snv,ENST00000397110.2:c.440C>T,ENSP00000380299.2:p.Ser147Leu,C1QTNF6,CCDS13943.1,missense,chr22:37578625,G/A,probably_damaging(0.996),deleterious(0),5.14,91.58,-,-,-,-,-,-,-,-,-,-
+NEW - Epi4K,IS,isnd29885bz1,bz,1,snv,ENST00000356554.3:c.1463C>T,ENSP00000348959.3:p.Ala488Val,MAN1A2,CCDS895.1,missense,chr1:118039563,C/T,possibly_damaging(0.517),deleterious(0.01),5.6,55.45,-,-,-,-,-,-,-,-,-,-
+NEW - Epi4K,IS,isnd29975cb1,cb,1,snv,ENST00000530767.1:c.1867C>T,ENSP00000436501.1:p.Arg623X,BCLAF1,CCDS47485.1,stop gained,chr6:136589311,G/A,LoF (1),-,3.47,97.64,YES,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd30610cg1,cg,1,snv,ENST00000442396.2:c.2027C>T,ENSP00000399863.2:p.Pro676Leu,ZNF839,CCDS45164.1,missense,chr14:102807759,C/T,benign(0.014),tolerated(0.19),-4.45,95.38,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd30474ch1,ch,3,snv,ENST00000341360.2:c.3161T>C,ENSP00000340930.2:p.Leu1054Pro,ATP2B4,CCDS30977.1,missense,chr1:203696551,T/C,probably_damaging(0.992),deleterious(0.02),5.65,11.51,YES,-,YES,YES,-,-,YES,ASDx1,-,-
+Reported - Epi4K,IS,isnd30474ch1,ch,3,snv,ENST00000262848.5:c.716C>T,ENSP00000262848.5:p.Ser239Leu,PRKX,CCDS14125.1,missense,chrX:3559896,G/A,benign(0.295),deleterious(0),2.44,23.04,YES,-,-,-,-,-,-,-,YES: missense DNM,-
+Reported - Epi4K,IS,isnd30474ch1,ch,3,snv,ENST00000264080.7:c.748G>A,ENSP00000264080.5:p.Asp250Asn,GPR108,CCDS42479.1,missense,chr19:6733288,C/T,benign(0.028),tolerated(0.31),-1.39,70.64,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd30279ci1,ci,1,snv,ENST00000302035.6:c.410T>A,ENSP00000306190.6:p.Leu137His,SLAMF1,CCDS1207.1,missense,chr1:160606986,A/T,probably_damaging(0.998),deleterious(0),4.19,86.17,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd30280cj1,cj,1,snv,ENST00000262493.6:c.824T>C,ENSP00000262493.6:p.Phe275Ser,GNAO1,CCDS10756.1,missense,chr16:56385396,T/C,probably_damaging(0.996),deleterious(0),5.91,13.94,YES,YES,YES,YES,-,YES,YES,EEx1; SCZx1,-,-
+Reported - Epi4K,IS,isnd30302ck1,ck,1,snv,ENST00000531945.1:c.428C>G,ENSP00000431914.1:p.Pro143Arg,OR10S1,CCDS31701.1,missense,chr11:123847971,G/C,probably_damaging(0.998),deleterious(0),4.56,89.47,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd31120cq1,cq,3,snv,ENST00000397040.1:c.3860C>G,ENSP00000380233.1:p.Ser1287X,RALGAPB,CCDS13305.1,stop gained,chr20:37195781,C/G,LoF (1),-,4.48,9.32,-,-,YES,-,-,-,YES,-,-,-
+Reported - Epi4K,IS,**isnd31120cq1,**cq,3,snv,ENST00000302926.2:c.659G>A,ENSP00000305288.2:p.Gly220Asp,NLGN2,CCDS11103.1,missense,chr17:7317982,G/A,probably_damaging(0.96),deleterious(0),4.57,7.94,-,-,YES,YES,-,-,YES,-,-,-
+Reported - Epi4K,IS,isnd31120cq1,cq,3,snv,ENST00000390649.3:c.3462G>T,ENSP00000375063.3:p.Gln1154His,NLRP5,CCDS12938.1,missense,chr19:56569768,G/T,possibly_damaging(0.732),deleterious(0.02),-6.61,66.14,-,-,-,-,-,-,-,-,YES: missense DNM,-
+Reported - Epi4K,IS,isnd30441cr1,cr,2,snv,ENST00000273371.4:c.961C>T,ENSP00000273371.4:p.Pro321Ser,PLA1A,CCDS2991.1,missense,chr3:119338448,C/T,probably_damaging(0.956),deleterious(0),5.17,89.24,YES,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd30441cr1,cr,2,indel,ENST00000222145.4:c.2312delC,ENSP00000222145.3:p.Thr771IlefsX17,RASIP1,CCDS12731.1,"frameshift, feature truncation",chr19:49228032,AG/A,N/A,-,N/A,Unassessed,YES,-,N/A,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd30552ct1,ct,3,snv,ENST00000318225.2:c.104C>T,ENSP00000316644.2:p.Thr35Ile,C3orf22,CCDS3040.1,missense,chr3:126270951,G/A,benign(0.407),deleterious(0.01),2.12,36.86,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd30552ct1,ct,3,snv,ENST00000299882.5:c.348C>T,ENST00000299882.5:c.348C>T(p.=),TMPRSS5,CCDS44735.1,synonymous,chr11:113568121,G/A,silent (0),-,-10.6,59.04,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd30552ct1,ct,3,indel,ENST00000450521.1:c.1022delT,ENSP00000404288.1:p.Ser342fs,FETUB,CCDS3279.1,"frameshift, feature truncation",chr3:186370292,AT/A,N/A,-,N/A,83.42,-,-,N/A,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd30679cu1,cu,1,snv,ENST00000373299.1:c.1631G>A,ENSP00000362396.1:p.Gly544Asp,STXBP1,CCDS35146.1,missense,chr9:130444768,G/A,probably_damaging(1),deleterious(0),5.62,14.97,YES,YES,YES,YES,-,-,YES,ASDx1; EEx4 ; severeIDx3,-,"Epileptic encephalopathy, early infantile : Saitsu : 2008 : PMID18469812"
+Reported - Epi4K,IS,isnd30880cx1,cx,1,snv,ENST00000396499.1:c.1492A>G,ENSP00000379756.1:p.Thr498Ala,CCDC125,CCDS4000.1,missense,chr5:68578600,T/C,benign(0.017),tolerated(0.15),3.95,89.14,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd31770cy1,cy,2,snv,ENST00000370891.2:c.2582T>C,ENSP00000359928.2:p.Val861Ala,TNNI3K,CCDS44161.1,missense,chr1:74957878,T/C,possibly_damaging(0.533),deleterious(0),4.55,29.59,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd31770cy1,cy,2,snv,ENST00000393600.3:c.817C>T,ENSP00000377225.3:p.Arg273Trp,FAM50A,CCDS14751.1,missense,chrX:153678267,C/T,probably_damaging(0.996),deleterious(0),2.36,53.19,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd31115da1,da,3,snv,ENST00000542678.1:c.460G>A,ENSP00000440288.1:p.Glu154Lys,ABCB9,CCDS9241.1,missense,chr12:123444323,C/T,benign(0.008),tolerated(0.09),4.68,2.16,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd31115da1,da,3,snv,ENST00000296490.3:c.852G>A,ENST00000296490.3:c.852G>A(p.=),WDR82,CCDS2851.2,synonymous,chr3:52292612,C/T,silent (0),-,-0.384,51.04,YES,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd31115da1,da,3,snv,ENST00000371019.2:c.689G>C,ENSP00000360058.2:p.Gly230Ala,FRAT2,CCDS7456.1,missense,chr10:99093641,C/G,benign(0.022),tolerated(0.05),2.11,Unassessed,-,-,N/A,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd31192db1,db,1,snv,ENST00000521829.1:c.274C>T,ENSP00000429680.1:p.Gln92X,VPS37A,CCDS47811.1,stop gained,chr8:17126398,C/T,LoF (1),-,4.85,20.54,-,-,YES,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd31228dc1,dc,5,snv,ENST00000505667.1:c.2704C>T,ENSP00000425556.1:p.Pro902Ser,PALLD,CCDS54818.1,missense,chr4:169835159,C/T,possibly_damaging(0.731),tolerated(0.46),5.46,63.67,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd31228dc1,dc,5,snv,ENST00000375687.4:c.325G>A,ENSP00000364839.4:p.Glu109Lys,ASXL1,CCDS13201.1,missense,chr20:31016003,G/A,probably_damaging(0.968),deleterious(0.02),4.79,65.77,-,-,-,-,-,-,-,-,YES: missense DNM,-
+Reported - Epi4K,IS,isnd31228dc1,dc,5,snv,ENST00000326303.4:c.596A>G,ENSP00000323071.4:p.Asn199Ser,ACOT4,CCDS9817.1,missense,chr14:74060544,A/G,benign(0),tolerated(0.75),1.29,71.41,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd31228dc1,dc,5,snv,ENST00000377833.4:c.9576T>C,ENST00000377833.4:c.9576T>C(p.=),CUBN,CCDS7113.1,synonymous,chr10:16893321,A/G,silent (0),-,0.106,93.49,YES,-,-,-,-,-,-,ASDx1,-,-
+Reported - Epi4K,IS,isnd31228dc1,dc,5,snv,ENST00000306928.5:c.738G>A,ENST00000306928.5:c.738G>A(p.=),NTSR2,CCDS1681.1,synonymous,chr2:11802253,C/T,silent (0),-,-7.86,Unassessed,-,-,N/A,YES,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd31308de1,de,3,snv,ENST00000398061.1:c.104C>T,ENSP00000381138.1:p.Thr35Met,AGPAT3,CCDS13703.1,missense,chr21:45379666,C/T,benign(0.133),tolerated(0.17),4.34,22.36,-,-,-,-,-,-,YES,-,-,-
+Reported - Epi4K,IS,isnd31308de1,de,3,snv,ENST00000280979.4:c.1537C>T,ENSP00000280979.4:p.Arg513Trp,AKAP6,CCDS9644.1,missense,chr14:33015396,C/T,benign(0.418),deleterious(0),1.13,71.65,YES,-,-,-,-,-,YES,-,-,-
+Reported - Epi4K,IS,isnd31308de1,de,3,snv,ENST00000263035.4:c.187T>C,ENSP00000263035.4:p.Tyr63His,DHTKD1,CCDS7087.1,missense,chr10:12123503,T/C,probably_damaging(0.935),deleterious(0),4.88,90.48,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd31364df1,df,2,snv,ENST00000276072.3:c.1406A>G,ENSP00000276072.3:p.Tyr469Cys,TAF1,CCDS14412.1,missense,chrX:70598867,A/G,probably_damaging(0.976),deleterious(0.01),5.55,25.73,YES,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd31364df1,df,2,snv,ENST00000307063.7:c.644C>T,ENSP00000305151.7:p.Pro215Leu,PWWP2A,CCDS47332.1,missense,chr5:159521013,G/A,benign(0.222),deleterious(0),4.51,53.73,-,-,-,-,-,-,-,ASDx1,-,-
+Reported - Epi4K,IS,isnd36211dg1,dg,1,snv,ENST00000394780.3:c.320A>G,ENSP00000378260.3:p.Asn107Ser,ALG13,CCDS55477.1,missense,chrX:110928268,A/G,possibly_damaging(0.869),deleterious(0),2.13,8.37,-,YES,-,-,-,-,-,EEx1; severeIDx1,-,Epileptic Encephalopathies : Epi4K : 2013: PMID23934111 ; Intellectual Disability : de Ligt : 2012 : PMID23033978
+Reported - Epi4K,IS,isnd31702dh1,dh,2,snv,ENST00000379989.3:c.638G>A,ENSP00000369325.3:p.Gly213Glu,CDKL5,CCDS14186.1,missense,chrX:18606157,G/A,probably_damaging(1),deleterious(0),6.1,15.86,YES,YES,YES,-,-,-,YES,EEx2,-,-
+Reported - Epi4K,IS,isnd31702dh1,dh,2,snv,ENST00000319397.5:c.1060A>G,ENSP00000324578.5:p.Ile354Val,ETS1,CCDS8475.1,missense,chr11:128333454,T/C,probably_damaging(0.998),deleterious(0),5.93,38.82,YES,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd32121dj1,dj,1,snv,ENST00000247138.5:c.683C>A,ENSP00000247138.5:p.Ser228X,SLC35A2,CCDS14311.1,stop gained,chrX:48762503,G/T,LoF (1),-,4.06,41.64,-,YES,-,-,-,-,-,EEx1,-,-
+Reported - Epi4K,IS,isnd30090dk1,dk,1,snv,ENST00000460472.2:c.6970G>A,ENSP00000434586.1:p.Gly2324Ser,TTN,CCDS54421.1,missense,chr2:179638787,C/T,benign(0.321),tolerated(0.113),4.85,98.04,YES,-,-,-,-,-,-,ASDx4; EEx2,YES: 2x missense DNM,-
+Reported - Epi4K,IS,isnd30831dl1,dl,3,snv,ENST00000373299.1:c.1004C>T,ENSP00000362396.1:p.Pro335Leu,STXBP1,CCDS35146.1,missense,chr9:130434370,C/T,probably_damaging(1),deleterious(0),5.41,14.97,YES,YES,YES,YES,-,-,YES,ASDx1; EEx4 ; severeIDx3,-,-
+Reported - Epi4K,IS,isnd30831dl1,dl,3,snv,ENST00000408923.3:c.1035C>G,ENSP00000386229.3:p.Tyr345X,RGS14,CCDS43405.1,stop gained,chr5:176795903,C/G,LoF (1),-,4.42,74.49,YES,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd30831dl1,dl,3,snv,ENST00000295268.3:c.1328A>G,ENSP00000295268.3:p.Gln443Arg,C4orf37,CCDS3645.1,missense,chr4:98480261,T/C,benign(0.048),tolerated(0.39),-0.814,93.21,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd30373dm1,dm,1,snv,ENST00000262367.5:c.5124C>T,ENST00000262367.5:c.5124C>T(p.=),CREBBP,CCDS10509.1,synonymous,chr16:3781241,G/A,silent (0),-,-6.15,1.54,YES,-,-,YES,-,YES,YES,-,YES: synonymous DNM,-
+Reported - Epi4K,IS,isnd31821dn1,dn,1,snv,ENST00000373789.3:c.1153A>G,ENSP00000362894.3:p.Met385Val,RTKN2,CCDS7263.1,missense,chr10:63964649,T/C,possibly_damaging(0.878),tolerated(0.07),3.93,48.78,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd31831do1,do,1,snv,ENST00000282356.4:c.1072G>C,ENSP00000282356.4:p.Asp358His,CAMK4,CCDS4103.1,missense,chr5:110819814,G/C,benign(0.174),deleterious(0.02),4.4,34.60,YES,-,-,YES,-,-,-,EEx1,-,-
+Reported - Epi4K,IS,isnd31241dr1,dr,1,snv,ENST00000311550.5:c.328A>G,ENSP00000308725.5:p.Asn110Asp,GABRB3,CCDS10019.1,missense,chr15:26866594,T/C,probably_damaging(0.965),tolerated(0.23),5.81,22.36,YES,YES,YES,YES,YES,YES,-,ASDx1; EEx3,-,-
+Reported - Epi4K,IS,isnd31602ds1,ds,1,snv,ENST00000393409.2:c.752G>A,ENSP00000377061.2:p.Arg251His,PLXNA1,CCDS33847.2,missense,chr3:126708188,G/A,benign(0.415),deleterious(0.01),3.21,0.09,YES,-,-,-,-,-,YES,SCZx1,YES: synonymous DNM,-
+Reported - Epi4K,IS,isnd34170dt1,dt,3,snv,ENST00000345617.3:c.1813C>T,ENST00000345617.3:c.1813C>T(p.=),HDAC4,CCDS2529.1,synonymous,chr2:240033372,G/A,silent (0),-,2.32,0.61,YES,-,-,YES,-,YES,YES,EEx1,-,-
+Reported - Epi4K,IS,isnd34170dt1,dt,3,snv,ENST00000359125.2:c.431G>A,ENSP00000352035.2:p.Arg144Gln,KCNQ2,CCDS13520.1,missense,chr20:62076674,C/T,probably_damaging(0.999),deleterious(0),3.61,15.86,YES,YES,YES,YES,YES,YES,YES,EEx1,-,-
+Reported - Epi4K,IS,isnd34170dt1,dt,3,snv,ENST00000361717.2:c.358G>A,ENSP00000354911.2:p.Gly120Arg,TIFA,CCDS34051.1,missense,chr4:113199215,C/T,probably_damaging(0.939),deleterious(0),4.91,51.40,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd32641du1,du,1,snv,ENST00000295645.4:c.354C>T,ENST00000295645.4:c.354C>T(p.=),PDCL2,CCDS47059.1,synonymous,chr4:56435893,G/A,silent (0),-,-1.36,54.95,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd32065dv1,dv,1,snv,ENST00000263923.4:c.894C>G,ENST00000263923.4:c.894C>G(p.=),KDR,CCDS3497.1,synonymous,chr4:55979553,G/C,silent (0),-,-0.588,6.39,YES,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd30482dy1,dy,1,indel,ENST00000324189.4:c.255_256delCT,ENSP00000319636.4:p.Leu87ValfsX4,B3GNT4,CCDS9227.1,"frameshift, feature truncation",chr12:122691052,CCT/C,N/A,-,N/A,91.61,-,-,N/A,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd32398dz1,dz,3,snv,ENST00000340058.5:c.1611A>G,ENST00000340058.5:c.1611A>G(p.=),RET,CCDS53525.1,synonymous,chr10:43607635,A/G,silent (0),-,0.22,3.00,YES,-,-,YES,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd32398dz1,dz,3,snv,ENST00000318962.4:c.1420G>A,ENSP00000313670.4:p.Glu474Lys,ALS2CL,CCDS2743.1,missense,chr3:46722752,C/T,benign(0.094),tolerated(0.28),-5.37,9.81,-,-,-,-,-,-,-,EEx1,-,-
+Reported - Epi4K,IS,isnd32398dz1,dz,3,snv,ENST00000305784.2:c.612G>T,ENSP00000304802.2:p.Glu204Asp,DTYMK,CCDS2552.1,missense,chr2:242615569,C/A,benign(0),tolerated(0.66),-2.77,20.26,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd21751e1,e,3,snv,ENST00000341846.5:c.776C>G,ENSP00000343129.5:p.Thr259Arg,TRIM29,CCDS8428.1,missense,chr11:120007964,G/C,probably_damaging(0.999),deleterious(0.01),5.77,48.84,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd21751e1,e,3,snv,ENST00000380448.1:c.148G>T,ENSP00000369814.1:p.Asp50Tyr,AKR1C4,CCDS7064.1,missense,chr10:5242207,G/T,probably_damaging(1),deleterious(0),3.32,53.85,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd21751e1,e,3,snv,ENST00000346213.4:c.364C>T,ENSP00000345689.4:p.Gln122X,RAB5C,CCDS11419.1,stop gained,chr17:40280356,G/A,LoF (1),-,5.3,67.92,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd32241ec1,ec,4,snv,ENST00000251472.4:c.2188G>C,ENSP00000251472.3:p.Val730Leu,MAST1,CCDS32921.1,missense,chr19:12978336,G/C,benign(0.01),tolerated(0.36),2.18,1.94,YES,-,-,-,-,-,YES,EEx1,-,-
+Reported - Epi4K,IS,isnd32241ec1,ec,4,snv,ENST00000379989.3:c.1390C>T,ENSP00000369325.3:p.Gln464X,CDKL5,CCDS14186.1,stop gained,chrX:18622434,C/T,LoF (1),-,6.06,15.86,YES,YES,YES,-,-,-,YES,EEx2,-,-
+Reported - Epi4K,IS,isnd32241ec1,ec,4,snv,ENST00000403904.1:c.398A>G,ENSP00000384074.1:p.Asn133Ser,CSNK1E,CCDS13970.1,missense,chr22:38696896,T/C,probably_damaging(0.99),deleterious(0),5.44,30.07,YES,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd32241ec1,ec,4,snv,ENST00000427043.3:c.378G>A,ENST00000427043.3:c.378G>A(p.=),CASP14,CCDS12323.1,synonymous,chr19:15164744,G/A,silent (0),-,1.76,38.98,YES,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd33651ed1,ed,1,snv,ENST00000438480.2:c.725G>T,ENSP00000411584.2:p.Arg242Leu,MSANTD1,CCDS47003.1,missense,chr4:3257580,G/T,possibly_damaging(0.451),deleterious(0.01),4.85,Unassessed,-,-,N/A,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd32671ef1,ef,2,snv,ENST00000398706.2:c.1137T>C,ENST00000398706.2:c.1137T>C(p.=),KIAA0913,CCDS44440.1,synonymous,chr10:75550928,T/C,silent (0),-,-7.5,1.89,-,-,-,-,-,-,YES,-,-,-
+Reported - Epi4K,IS,isnd32671ef1,ef,2,snv,ENST00000302303.1:c.1376T>C,ENSP00000303847.1:p.Ile459Thr,RFX3,CCDS6450.1,missense,chr9:3266287,A/G,possibly_damaging(0.861),deleterious(0),5.76,12.46,-,-,-,-,-,-,-,SCZx1,-,-
+Reported - Epi4K,IS,isnd33296eh1,eh,1,snv,ENST00000442253.2:c.795C>T,ENST00000442253.2:c.795C>T(p.=),PAQR8,CCDS4941.1,synonymous,chr6:52268806,C/T,silent (0),-,-2.42,17.75,-,-,-,-,-,-,-,SCZx1,-,-
+NEW - Epi4K (trio reported),IS,isnd36496ei1,ei,1,snv,ENST00000267499.3:c.22G>A,ENSP00000267499.2:p.Val8Met,ADAM21,CCDS9804.1,missense,chr14:70924238,G/A,benign(0.017),deleterious(0.03),-2.08,45.57,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd33342ej1,ej,3,snv,ENST00000373299.1:c.703C>T,ENSP00000362396.1:p.Arg235X,STXBP1,CCDS35146.1,stop gained,chr9:130428484,C/T,LoF (1),-,5.72,14.97,YES,YES,YES,YES,-,-,YES,ASDx1; EEx4 ; severeIDx3,-,"Epileptic encephalopathy, early infantile : Saitsu : 2010 : PMID20887364"
+Reported - Epi4K,IS,isnd33342ej1,ej,3,snv,ENST00000238789.5:c.2028C>A,ENST00000238789.5:c.2028C>A(p.=),ATAD2B,CCDS46227.1,synonymous,chr2:24046231,G/T,silent (0),-,-0.274,69.57,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd33342ej1,ej,3,snv,ENST00000371485.3:c.664A>C,ENSP00000360540.3:p.Lys222Gln,CEP55,CCDS7428.1,missense,chr10:95275297,A/C,benign(0.158),tolerated(0.2),4,96.00,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd35845ek1,ek,2,snv,ENST00000544172.1:c.1158C>T,ENST00000544172.1:c.1158C>T(p.=),PTK2B,CCDS6057.1,synonymous,chr8:27292042,C/T,silent (0),-,-10.9,5.19,YES,-,-,YES,-,-,YES,SCZx1,-,-
+Reported - Epi4K,IS,isnd35845ek1,ek,2,snv,ENST00000416240.2:c.469G>A,ENSP00000400101.2:p.Glu157Lys,SLC25A13,CCDS55130.1,missense,chr7:95822495,C/T,benign(0.231),deleterious(0.02),5.06,6.17,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd33322el1,el,1,snv,ENST00000260404.4:c.969T>A,ENST00000260404.4:c.969T>A(p.=),PAK6,CCDS10054.1,synonymous,chr15:40564535,T/A,silent (0),-,1.61,86.34,-,-,-,-,-,-,YES,-,-,-
+Reported - Epi4K,IS,isnd34077er1,er,1,snv,ENST00000379477.1:c.100C>T,ENSP00000368790.1:p.His34Tyr,MTRF1,CCDS9378.1,missense,chr13:41834944,G/A,benign(0.086),deleterious(0.02),1.72,83.98,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd29429es1,es,1,snv,ENST00000478658.1:c.6488G>A,ENSP00000420721.1:p.Gly2163Glu,KIAA2018,CCDS43133.1,missense,chr3:113374041,C/T,probably_damaging(0.999),deleterious(0),5.36,14.50,-,-,YES,-,-,-,YES,SCZx1,-,-
+Reported - Epi4K,IS,isnd35575et1,et,1,snv,ENST00000433790.1:c.481G>A,ENSP00000396708.1:p.Val161Met,GAS2,CCDS7858.1,missense,chr11:22770673,G/A,possibly_damaging(0.873),tolerated(0.34),5.86,66.82,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd34304ey1,ey,1,snv,ENST00000544665.3:c.736C>G,ENSP00000441691.2:p.Arg246Gly,ITGAM,CCDS54004.1,missense,chr16:31284717,C/G,probably_damaging(0.999),deleterious(0),1.73,18.28,YES,-,YES,-,-,-,-,-,YES: synonymous DNM,-
+Reported - Epi4K,IS,isnd22993f1,f,1,snv,ENST00000337435.4:c.225A>C,ENST00000337435.4:c.225A>C(p.=),NIPA1,CCDS10011.1,synonymous,chr15:23062273,T/G,silent (0),-,2.54,31.46,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd34401fc1,fc,2,snv,ENST00000328333.8:c.7279G>A,ENSP00000332371.8:p.Ala2427Thr,COL7A1,CCDS2773.1,missense,chr3:48608137,C/T,benign(0.312),tolerated(0.556),3.53,0.13,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd34401fc1,fc,2,snv,ENST00000404992.2:c.1414A>G,ENSP00000385942.2:p.Thr472Ala,XPO1,CCDS33205.1,missense,chr2:61719854,T/C,benign(0.077),deleterious(0.01),5.99,11.06,YES,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd36066fd1,fd,2,snv,ENST00000399231.3:c.4687C>T,ENSP00000382177.3:p.Arg1563X,MYO5A,CCDS42037.1,stop gained,chr15:52615590,G/A,LoF (1),-,5.25,4.15,YES,-,YES,YES,-,YES,YES,-,-,-
+Reported - Epi4K,IS,isnd36066fd1,fd,2,snv,ENST00000310455.3:c.549T>G,ENST00000310455.3:c.549T>G(p.=),PPP1R3B,CCDS5973.1,synonymous,chr8:8998613,A/C,silent (0),-,-11.5,56.92,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd34750fe1,fe,2,snv,ENST00000400324.4:c.865G>A,ENSP00000383178.3:p.Val289Ile,DIAPH3,CCDS41898.1,missense,chr13:60584710,C/T,possibly_damaging(0.868),tolerated(0.05),4.97,66.27,YES,-,-,-,-,-,-,-,YES: synonymous DNM,-
+Reported - Epi4K,IS,isnd34750fe1,fe,2,snv,ENST00000253008.2:c.439C>T,ENSP00000253008.2:p.Arg147Cys,PRDM12,CCDS6934.1,missense,chr9:133543569,C/T,probably_damaging(0.921),deleterious(0.02),4.27,Unassessed,-,-,N/A,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd34116ff1,ff,1,snv,ENST00000361193.3:c.1650C>A,ENST00000361193.3:c.1650C>A(p.=),SLC26A11,CCDS11771.2,synonymous,chr17:78223080,C/A,silent (0),-,1.48,55.84,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd34968fg1,fg,1,snv,ENST00000447393.1:c.1613G>A,ENSP00000393559.1:p.Arg538Gln,PACS2,CCDS45178.1,missense,chr14:105849238,G/A,possibly_damaging(0.775),tolerated(0.33),3.63,14.24,-,-,-,-,-,-,YES,ASDx1,-,-
+Reported - Epi4K,IS,isnd34962fh1,fh,1,snv,ENST00000373299.1:c.1217G>A,ENSP00000362396.1:p.Arg406His,STXBP1,CCDS35146.1,missense,chr9:130438189,G/A,probably_damaging(0.999),deleterious(0),5.61,14.97,YES,YES,YES,YES,-,-,YES,ASDx1; EEx4 ; severeIDx3,-,"Epileptic encephalopathy, early infantile : Saitsu : 2010 : PMID20887364"
+Reported - Epi4K,IS,isnd34680fj1,fj,2,snv,ENST00000345617.3:c.1032C>T,ENST00000345617.3:c.1032C>T(p.=),HDAC4,CCDS2529.1,synonymous,chr2:240056286,G/A,silent (0),-,-0.805,0.61,YES,-,-,YES,-,YES,YES,EEx1,-,-
+Reported - Epi4K,IS,isnd34680fj1,fj,2,snv,ENST00000245838.8:c.1550A>G,ENSP00000245838.8:p.Tyr517Cys,THOC2,CCDS43988.1,missense,chrX:122778639,T/C,probably_damaging(0.999),deleterious(0),5.84,18.59,YES,-,YES,-,-,-,-,-,YES: synonymous DNM,-
+Reported - Epi4K,IS,isnd35150fl1,fl,2,snv,ENST00000374232.3:c.267A>T,ENSP00000363349.3:p.Arg89Ser,SNX30,CCDS43865.1,missense,chr9:115567166,A/T,benign(0.019),tolerated(0.09),2.93,24.19,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd35150fl1,fl,2,snv,ENST00000298125.5:c.216A>G,ENST00000298125.5:c.216A>G(p.=),WDFY2,CCDS9429.1,synonymous,chr13:52249316,A/G,silent (0),-,6.06,50.22,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd35197fn1,fn,3,snv,ENST00000400345.3:c.881C>G,ENSP00000383199.2:p.Pro294Arg,NEDD4L,CCDS45872.1,missense,chr18:55998037,C/G,possibly_damaging(0.452),tolerated(0.08),5.58,5.79,YES,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd35197fn1,fn,3,indel,ENST00000378386.3:c.1319delT,ENSP00000367637.3:p.Leu440GlnfsX23,MRS2,CCDS4552.1,"frameshift, feature truncation",chr6:24423908,CT/C,N/A,-,N/A,72.66,-,-,N/A,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd35197fn1,fn,3,snv,ENST00000382483.3:c.327C>T,ENST00000382483.3:c.327C>T(p.=),RP1L1,CCDS43708.1,synonymous,chr8:10480385,G/A,silent (0),-,-0.906,99.90,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd28895fp1,fp,1,snv,ENST00000241014.2:c.902C>T,ENSP00000241014.2:p.Pro301Leu,MAPK8IP1,CCDS7916.1,missense,chr11:45924220,C/T,benign(0.06),deleterious(0.01),4.58,17.31,YES,-,-,YES,-,-,YES,-,-,-
+NEW - Epi4K (trio reported),IS,isnd35498fr1,fr,1,indel,ENST00000308360.7:c.1579delC,ENSP00000309430.7:p.Leu527CysfsX60,PIGS,CCDS11235.1,"frameshift, feature truncation",chr17:26881326,AG/A,N/A,-,N/A,60.57,-,-,N/A,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd35907fs1,fs,1,indel,ENST00000351429.3:c.249delA,ENSP00000286764.4:p.Ala84LeufsX4,N6AMT1,CCDS33525.1,"frameshift, feature truncation",chr21:30254544,CT/C,N/A,-,N/A,86.08,-,-,N/A,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd36367fx1,fx,2,snv,ENST00000398015.3:c.1314C>T,ENST00000398015.3:c.1314C>T(p.=),EPHB1,CCDS46921.1,synonymous,chr3:134873010,C/T,silent (0),-,2.34,4.72,YES,-,-,YES,-,-,-,-,YES: missense DNM,-
+Reported - Epi4K,IS,isnd36367fx1,fx,2,snv,ENST00000270066.6:c.53G>A,ENSP00000270066.6:p.Arg18Gln,SMG9,CCDS33043.2,missense,chr19:44254841,C/T,probably_damaging(0.962),deleterious(0),5.76,13.45,YES,-,YES,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd23231g1,g,1,snv,ENST00000372923.3:c.618G>C,ENSP00000362014.3:p.Lys206Asn,DNM1,CCDS6895.1,missense,chr9:130982295,G/C,probably_damaging(0.999),deleterious(0),4.41,19.54,YES,YES,YES,YES,-,YES,YES,EEx4,-,-
+Reported - Epi4K,IS,isnd36561ga1,ga,3,snv,ENST00000372358.5:c.16A>G,ENSP00000361433.5:p.Arg6Gly,EXOSC2,CCDS6935.1,missense,chr9:133569194,A/G,benign(0.01),deleterious(0.03),-1.12,37.32,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd36561ga1,ga,3,snv,ENST00000319121.3:c.727A>T,ENSP00000314608.3:p.Thr243Ser,KLHL11,CCDS11411.1,missense,chr17:40011392,T/A,benign(0.01),tolerated(0.67),4.84,41.91,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd36561ga1,ga,3,indel,ENST00000254770.2:c.531-18_531-1delATTTTTCTTATTGGTTAG,-,LANCL2,CCDS5517.1,splice acceptor,chr7:55467631,AATTTTTCTTATTGGTTAG/A,N/A,-,N/A,50.34,-,-,N/A,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd30629gb1,gb,2,snv,ENST00000457266.2:c.658G>A,ENSP00000442218.1:p.Val220Ile,TPTE2,CCDS45013.1,missense,chr13:20012276,C/T,benign(0.029),tolerated(1),0.633,40.45,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd30629gb1,gb,2,indel,ENST00000368309.3:c.426delG,ENSP00000357292.3:p.Ser144LeufsX28,UBQLN4,CCDS1127.1,"frameshift, feature truncation",chr1:156020952,GC/G,N/A,-,N/A,58.74,YES,-,N/A,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd35929gc1,gc,1,snv,ENST00000253727.5:c.952C>T,ENSP00000253727.4:p.Arg318Cys,NR1H2,CCDS42593.1,missense,chr19:50883061,C/T,probably_damaging(0.994),deleterious(0.01),2.9,22.51,YES,-,YES,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd23319gi1,gi,3,snv,ENST00000217426.2:c.111G>T,ENSP00000217426.2:p.Glu37Asp,AHCY,CCDS13233.1,missense,chr20:32883309,C/A,benign(0.009),deleterious(0.02),4.02,48.69,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd23319gi1,gi,3,snv,ENST00000379883.2:c.2243T>C,ENSP00000369213.2:p.Ile748Thr,DDX58,CCDS6526.1,missense,chr9:32466382,A/G,possibly_damaging(0.822),tolerated(0.08),5.45,57.54,YES,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd23319gi1,gi,3,snv,ENST00000282059.6:c.996G>C,ENSP00000282059.5:p.Glu332Asp,C18orf25,CCDS42430.1,missense,chr18:43833760,G/C,probably_damaging(0.916),deleterious(0.04),3.74,69.21,YES,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd24053gj1,gj,2,snv,ENST00000268489.5:c.7562C>T,ENSP00000268489.5:p.Ala2521Val,ZFHX3,CCDS10908.1,missense,chr16:72829019,G/A,probably_damaging(0.991),tolerated(0.056),5.41,0.12,-,-,YES,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,**lgsnd24053gj1,**gj,2,snv,ENST00000409050.1:c.3553C>T,ENSP00000386312.1:p.Arg1185X,SCN1A,CCDS54414.1,stop gained,chr2:166870322,G/A,LoF (1),-,4.47,4.03,YES,YES,YES,YES,YES,YES,-,ASDx1; EEx7,-,Severe Myoclonic epilepsy of infancy : Fujiwara : 2003 : PMID12566275
+Reported - Epi4K,LGS,lgsnd24070gk1,gk,2,snv,ENST00000375147.3:c.1068T>C,ENST00000375147.3:c.1068T>C(p.=),NCBP1,CCDS6728.1,synonymous,chr9:100416088,T/C,silent (0),-,0.0813,40.36,YES,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd24070gk1,gk,2,snv,ENST00000368608.3:c.951C>T,ENST00000368608.3:c.951C>T(p.=),TSPYL1,CCDS34518.1,synonymous,chr6:116600043,G/A,silent (0),-,-4.69,87.14,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd23828gl1,gl,1,snv,ENST00000537177.1:c.78A>G,ENST00000537177.1:c.78A>G(p.=),CUL2,CCDS55709.1,synonymous,chr10:35360225,T/C,silent (0),-,-2.27,18.59,YES,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd24447gm1,gm,4,snv,ENST00000358536.4:c.4389G>A,ENST00000358536.4:c.4389G>A(p.=),PLXNB1,CCDS2765.1,synonymous,chr3:48455225,C/T,silent (0),-,-2.63,0.93,YES,-,-,-,-,-,YES,ASDx2,YES: missense DNM,-
+Reported - Epi4K,LGS,lgsnd24447gm1,gm,4,snv,ENST00000562435.1:c.693A>G,ENST00000562435.1:c.693A>G(p.=),NETO2,CCDS10727.1,synonymous,chr16:47143584,T/C,silent (0),-,3.21,26.53,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd24447gm1,gm,4,snv,ENST00000357618.5:c.156C>T,ENST00000357618.5:c.156C>T(p.=),HFE,CCDS4578.1,synonymous,chr6:26091148,C/T,silent (0),-,-7.52,60.31,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd24447gm1,gm,4,snv,ENST00000294360.4:c.120G>A,ENST00000294360.4:c.120G>A(p.=),C1orf123,CCDS576.1,synonymous,chr1:53684566,C/T,silent (0),-,-1.94,67.92,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd24646gp1,gp,1,snv,ENST00000409050.1:c.2792G>A,ENSP00000386312.1:p.Cys931Tyr,SCN1A,CCDS54414.1,missense,chr2:166894356,C/T,probably_damaging(0.995),deleterious(0),5.18,4.03,YES,YES,YES,YES,YES,YES,-,ASDx1; EEx7,-,-
+Reported - Epi4K,LGS,lgsnd23543gr1,gr,1,snv,ENST00000509430.1:c.75C>T,ENST00000509430.1:c.75C>T(p.=),GFM2,CCDS4023.1,synonymous,chr5:74056800,G/A,silent (0),-,4.02,92.59,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd25442gs1,gs,1,snv,ENST00000311550.5:c.905A>G,ENSP00000308725.5:p.Tyr302Cys,GABRB3,CCDS10019.1,missense,chr15:26806254,T/C,probably_damaging(0.938),tolerated(0.1),5.19,22.36,YES,YES,-,YES,YES,YES,-,ASDx1; EEx3,-,-
+Reported - Epi4K,LGS,lgsnd25544gt1,gt,1,snv,ENST00000289316.2:c.113A>G,ENSP00000289316.2:p.Tyr38Cys,HIST1H2BD,CCDS4587.1,missense,chr6:26158510,A/G,benign(0.347),deleterious(0.04),3.99,49.76,-,-,-,-,-,-,-,-,-,-
+NEW - Epi4K (trio reported),LGS,lgsnd24647gu1,gu,1,indel,ENST00000389232.4:c.9603_9605delCAT,ENSP00000373884.4:p.Ile3202del,RYR3,CCDS45210.1,inframe deletion,chr15:34080431,CCAT/C,N/A,-,N/A,0.06,YES,-,N/A,YES,-,-,-,EEx1; SCZx2,-,-
+Reported - Epi4K,LGS,lgsnd23813gv1,gv,1,snv,ENST00000335123.2:c.100C>A,ENSP00000334869.2:p.Pro34Thr,LCE1A,CCDS1028.1,missense,chr1:152800048,C/A,possibly_damaging(0.767),-,3.4,56.64,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd26319gy1,gy,1,snv,ENST00000595090.1:c.1069G>A,ENSP00000473172.1:p.Val357Ile,RUVBL2,CCDS42588.1,missense,chr19:49517808,G/A,benign(0.007),tolerated(1),2.55,7.94,YES,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd23465h1,h,1,snv,ENST00000359376.3:c.2202C>T,ENST00000359376.3:c.2202C>T(p.=),PLCG2,CCDS42204.1,synonymous,chr16:81953236,C/T,silent (0),-,-0.689,17.92,YES,-,-,YES,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd27753ha1,ha,3,snv,ENST00000523189.1:c.1713A>G,ENST00000523189.1:c.1713A>G(p.=),RANBP17,CCDS34287.1,synonymous,chr5:170597136,A/G,silent (0),-,0.846,62.23,-,-,-,-,-,-,-,severeIDx1,-,-
+Reported - Epi4K,LGS,lgsnd27753ha1,ha,3,snv,ENST00000273352.3:c.38T>C,ENSP00000273352.3:p.Val13Ala,GPR128,CCDS2938.1,missense,chr3:100328738,T/C,possibly_damaging(0.59),deleterious(0.02),5.69,87.73,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd27753ha1,ha,3,snv,ENST00000337107.6:c.319C>T,ENSP00000338369.6:p.Leu107Phe,CELA3B,CCDS219.1,missense,chr1:22307622,C/T,benign(0.115),deleterious(0.01),2.96,96.60,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd25992hc1,hc,1,snv,ENST00000370597.3:c.1043T>C,ENSP00000359629.3:p.Val348Ala,CRTAC1,CCDS31266.1,missense,chr10:99661350,A/G,probably_damaging(0.949),tolerated(0.06),4.27,13.16,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd27109hd1,hd,1,snv,ENST00000354534.4:c.2624T>A,ENSP00000346534.4:p.Leu875Gln,SCN8A,CCDS44891.1,missense,chr12:52159534,T/A,probably_damaging(1),deleterious(0),4.45,2.34,YES,YES,YES,YES,YES,-,YES,EEx1; severeIDx1,-,-
+Reported - Epi4K,LGS,lgsnd28840hf1,hf,4,snv,ENST00000200181.3:c.5128G>A,ENSP00000200181.3:p.Val1710Met,ITGB4,CCDS11727.1,missense,chr17:73753098,G/A,possibly_damaging(0.689),tolerated(0.12),2.98,0.53,YES,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd28840hf1,hf,4,snv,ENST00000392403.3:c.1332C>A,ENST00000392403.3:c.1332C>A(p.=),ASH1L,CCDS1113.2,synonymous,chr1:155451329,G/T,silent (0),-,2.92,2.22,-,-,-,-,-,-,YES,severeIDx1,-,-
+Reported - Epi4K,LGS,lgsnd28840hf1,hf,4,indel,ENST00000302424.6:c.1117delG,ENSP00000302120.5:p.Ala374ArgfsX16,TRIM8,CCDS31274.1,"frameshift, feature truncation",chr10:104416571,TG/T,N/A,-,N/A,19.31,YES,-,N/A,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd28840hf1,hf,4,snv,ENST00000537935.1:c.668A>G,ENSP00000444054.1:p.Tyr223Cys,OR52E8,CCDS31400.1,missense,chr11:5878265,T/C,benign(0.388),deleterious(0.01),4.53,91.82,-,-,-,-,-,-,-,-,-,-
+NEW - Epi4K,LGS,lgsnd29877hg1,hg,1,snv,ENST00000311223.5:c.487T>C,ENSP00000307900.5:p.Cys163Arg,GLUL,CCDS1344.1,missense,chr1:182355011,A/G,probably_damaging(0.996),deleterious(0),5.29,25.15,YES,-,YES,YES,-,-,YES,-,-,-
+Reported - Epi4K,LGS,lgsnd27345hh1,hh,1,snv,ENST00000360228.5:c.2134G>A,ENSP00000353362.5:p.Ala712Thr,CACNA1A,CCDS45998.1,missense,chr19:13414398,C/T,probably_damaging(0.996),deleterious(0.01),4.96,2.27,YES,-,YES,YES,YES,YES,YES,ASDx1,-,-
+Reported - Epi4K,LGS,lgsnd27497hi1,hi,3,snv,ENST00000261726.6:c.1768G>A,ENSP00000261726.6:p.Glu590Lys,CUX2,CCDS41837.1,missense,chr12:111748354,G/A,probably_damaging(0.997),deleterious(0),4.77,1.60,YES,-,YES,-,-,-,YES,severeIDx1,-,"Intellectual disability, nonsyndromic : Rauch : 2012 : PMID23020937"
+Reported - Epi4K,LGS,lgsnd27497hi1,hi,3,snv,ENST00000312295.4:c.334A>G,ENSP00000311712.4:p.Met112Val,RTP1,CCDS3287.2,missense,chr3:186917400,A/G,benign(0.184),deleterious(0.03),1.74,58.85,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd27497hi1,hi,3,snv,ENST00000371360.1:c.152C>T,ENSP00000360411.1:p.Ala51Val,LDLRAD1,CCDS30725.1,missense,chr1:54479959,G/A,benign(0.32),deleterious(0.01),4.57,67.03,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd27594hj1,hj,1,snv,ENST00000381808.3:c.565A>C,ENSP00000371229.3:p.Lys189Gln,SDCBP2,CCDS13013.1,missense,chr20:1291448,T/G,probably_damaging(0.96),deleterious(0.02),4.56,94.17,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd27637hk1,hk,1,snv,ENST00000307630.3:c.387C>G,ENSP00000306330.3:p.Asp129Glu,YWHAG,CCDS5584.1,missense,chr7:75959251,G/C,probably_damaging(0.995),deleterious(0),6.08,32.62,YES,-,-,YES,-,-,YES,-,-,-
+Reported - Epi4K,LGS,lgsnd27682hl1,hl,4,snv,ENST00000378623.1:c.2349G>A,ENST00000378623.1:c.2349G>A(p.=),LRP4,CCDS31478.1,synonymous,chr11:46907951,C/T,silent (0),-,2.51,4.69,YES,-,-,-,-,-,-,SCZx1,-,-
+Reported - Epi4K,LGS,lgsnd27682hl1,hl,4,snv,ENST00000534862.1:c.98C>T,ENSP00000444986.1:p.Pro33Leu,HCK,CCDS54454.1,missense,chr20:30659560,C/T,benign(0.271),tolerated(0.11),4.28,52.09,YES,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd27682hl1,hl,4,snv,ENST00000264448.6:c.6914C>T,ENSP00000264448.6:p.Pro2305Leu,ALMS1,CCDS42697.1,missense,chr2:73680571,C/T,probably_damaging(0.974),deleterious(0),4.78,98.28,-,-,-,-,-,-,-,ASDx1; SCZx1,-,-
+Reported - Epi4K,LGS,lgsnd27682hl1,hl,4,snv,ENST00000405460.2:c.15833G>T,ENSP00000384582.2:p.Gly5278Val,GPR98,CCDS47246.1,missense,chr5:90106910,G/T,benign(0.001),tolerated(0.11),2.93,99.95,-,-,-,-,-,YES,-,ASDx2,-,-
+NEW - Epi4K,LGS,lgsnd28051hm1,hm,4,snv,ENST00000262215.3:c.4365C>A,ENSP00000262215.3:p.Cys1455X,ARFGEF1,CCDS6199.1,stop gained,chr8:68130347,G/T,LoF (1),-,1.34,2.37,-,-,YES,-,-,-,YES,-,-,-
+NEW - Epi4K,LGS,lgsnd28051hm1,hm,4,snv,ENST00000378827.4:c.328C>A,ENSP00000368104.3:p.Arg110Ser,BMP2,CCDS13099.1,missense,chr20:6751101,C/A,probably_damaging(0.968),deleterious(0),3.48,34.60,-,-,-,-,-,-,-,-,-,-
+NEW - Epi4K,LGS,lgsnd28051hm1,hm,4,snv,ENST00000370500.5:c.547G>T,ENSP00000359531.5:p.Val183Leu,GTF2B,CCDS715.1,missense,chr1:89323159,C/A,benign(0.076),tolerated(0.36),4.61,61.28,YES,-,-,-,-,-,-,-,-,-
+NEW - Epi4K,LGS,lgsnd28051hm1,hm,4,snv,ENST00000408955.2:c.613G>C,ENSP00000386222.2:p.Val205Leu,OR2F2,CCDS43666.1,missense,chr7:143632938,G/C,benign(0.037),tolerated(0.49),-2.08,83.36,-,-,-,-,-,-,-,-,YES: missense DNM,-
+Reported - Epi4K,LGS,lgsnd28181hp1,hp,2,snv,ENST00000394196.4:c.390C>T,ENST00000394196.4:c.390C>T(p.=),CHD2 ^,CCDS10374.2,synonymous ^,chr15:93472268,C/T,silent (0),-,3.89,2.37,-,YES,-,-,-,-,-,ASDx1; EEx1,-,-
+Reported - Epi4K,LGS,lgsnd28181hp1,hp,2,snv,ENST00000399820.3:c.1471G>C,ENSP00000382717.3:p.Gly491Arg,WDR19,CCDS47042.1,missense,chr4:39219717,G/C,probably_damaging(0.964),deleterious(0.01),5.5,81.71,-,-,-,-,-,-,-,-,YES: missense DNM,-
+Reported - Epi4K,LGS,lgsnd28245hq1,hq,1,snv,ENST00000332884.6:c.1581A>T,ENSP00000333212.6:p.Arg527Ser,CYP2U1,CCDS34047.1,missense,chr4:108871525,A/T,benign(0.38),tolerated(0.23),-1.11,46.92,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd28509hr1,hr,2,snv,ENST00000303395.4:c.5222G>C,ENSP00000303540.4:p.Cys1741Ser,SCN1A,CCDS54413.1,missense,chr2:166848563,C/G,probably_damaging(1),deleterious(0),5.69,4.03,YES,YES,YES,YES,YES,YES,-,ASDx1; EEx7,-,-
+Reported - Epi4K,LGS,lgsnd28509hr1,hr,2,snv,ENST00000396625.3:c.703G>A,ENSP00000379866.3:p.Gly235Ser,COL4A4,CCDS42828.1,missense,chr2:227973329,C/T,possibly_damaging(0.9),deleterious(0),5.01,91.27,-,-,-,-,-,-,-,-,YES: synonymous DNM,-
+Reported - Epi4K,LGS,lgsnd28866hs1,hs,4,snv,ENST00000241312.4:c.343C>T,ENSP00000241312.4:p.Arg115Cys,CSMD2,CCDS380.1,missense,chr1:34498249,G/A,possibly_damaging(0.766),tolerated(0.18),3.72,1.92,-,-,-,-,-,-,-,EEx1,-,-
+Reported - Epi4K,LGS,lgsnd28866hs1,hs,4,snv,ENST00000373585.3:c.1627G>T,ENSP00000362687.3:p.Asp543Tyr,DDX50,CCDS7283.1,missense,chr10:70696723,G/T,possibly_damaging(0.65),deleterious(0.03),5.57,19.73,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd28866hs1,hs,4,snv,ENST00000339486.3:c.299A>G,ENSP00000341874.3:p.Glu100Gly,RIOK3,CCDS11877.1,missense,chr18:21044050,A/G,probably_damaging(0.999),tolerated(0.07),5.76,37.32,YES,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd28866hs1,hs,4,snv,ENST00000409816.2:c.4604A>G,ENSP00000386461.2:p.Gln1535Arg,MYO7B,CCDS46405.1,missense,chr2:128387277,A/G,benign(0.285),tolerated(0.49),4.53,90.92,-,-,-,-,-,-,-,ASDx2,-,-
+Reported - Epi4K,LGS,lgsnd28432hu1,hu,2,snv,ENST00000413817.2:c.452A>G,ENSP00000391524.2:p.Lys151Arg,FAM116B,CCDS46732.1,missense,chr22:50755723,T/C,probably_damaging(0.984),deleterious(0.01),4.8,9.27,-,-,YES,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd28432hu1,hu,2,snv,ENST00000395647.2:c.1335C>T,ENST00000395647.2:c.1335C>T(p.=),SLC5A10,CCDS11201.2,synonymous,chr17:18922781,C/T,silent (0),-,-3.24,11.98,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd28881hv1,hv,2,indel,ENST00000444376.2:c.1687-4_1692delAAAGACAAAT,-,HNRNPU,CCDS31081.1,splice acceptor,chr1:245019921,CATTTGTCTTT/C,N/A,-,N/A,17.75,YES,-,N/A,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd28881hv1,hv,2,snv,ENST00000319977.4:c.1190G>A,ENSP00000313500.4:p.Arg397His,C17orf53,CCDS11477.1,missense,chr17:42226361,G/A,probably_damaging(0.995),deleterious(0.01),5.84,67.43,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd28949hx1,hx,1,snv,ENST00000442819.2:c.1305A>G,ENST00000442819.2:c.1305A>G(p.=),HNRNPH1,CCDS4446.1,synonymous,chr5:179042592,T/C,silent (0),-,5.61,33.97,YES,-,-,-,-,-,-,-,-,-
+NEW - Epi4K (trio reported),LGS,lgsnd28731hy1,hy,1,snv,ENST00000446488.3:c.1371G>A,ENST00000446488.3:c.1371G>A(p.=),NFRKB,CCDS44770.1,synonymous,chr11:129751351,C/T,silent (0),-,2.67,0.76,YES,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd29055hz1,hz,2,snv,ENST00000361445.4:c.4785G>A,ENSP00000354558.4:p.Met1595Ile,MTOR,CCDS127.1,missense,chr1:11204792,C/T,possibly_damaging(0.666),tolerated(0.22),5.6,0.34,YES,-,-,YES,-,-,YES,SCZx1,-,-
+Reported - Epi4K,LGS,lgsnd29055hz1,hz,2,snv,ENST00000564999.1:c.468C>T,ENST00000564999.1:c.468C>T(p.=),TCF4,CCDS11960.1,synonymous,chr18:53018136,G/A,silent (0),-,3.6,19.54,YES,-,-,-,-,-,YES,ASDx1; severeIDx2,-,-
+Reported - Epi4K,LGS,lgsnd29058ia1,ia,1,snv,ENST00000261917.3:c.957G>C,ENST00000261917.3:c.957G>C(p.=),HCN4,CCDS10248.1,synonymous,chr15:73635978,C/G,silent (0),-,3.26,Unassessed,-,-,N/A,YES,YES,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd29394ie1,ie,1,snv,ENST00000508327.1:c.24C>T,ENST00000508327.1:c.24C>T(p.=),LEMD2,CCDS47411.1,synonymous,chr6:33748854,G/A,silent (0),-,-5.46,Unassessed,-,-,N/A,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd29446if1,if,1,snv,ENST00000438132.3:c.829A>G,ENSP00000400815.3:p.Ile277Val,C16orf62,CCDS32397.2,missense,chr16:19592898,A/G,benign(0.279),deleterious(0.01),5.64,5.69,-,-,-,-,-,-,-,SCZx1,YES: missense DNM,-
+Reported - Epi4K,LGS,lgsnd29528ih1,ih,1,snv,ENST00000394196.4:c.1502+1G>A,-,CHD2,CCDS10374.2,splice donor,chr15:93492307,G/A,LoF (1),-,5.66,2.37,-,YES,YES,-,-,-,-,ASDx1; EEx1,-,-
+Reported - Epi4K,LGS,lgsnd29838ij1,ij,1,snv,ENST00000394780.3:c.320A>G,ENSP00000378260.3:p.Asn107Ser,ALG13,CCDS55477.1,missense,chrX:110928268,A/G,possibly_damaging(0.869),deleterious(0),2.13,8.37,-,YES,-,-,-,-,-,EEx1; severeIDx1,-,Epileptic Encephalopathies : Epi4K : 2013: PMID23934111 ; Intellectual Disability : de Ligt : 2012 : PMID23033978
+Reported - Epi4K,LGS,lgsnd29958il1,il,3,snv,ENST00000286835.7:c.205A>G,ENSP00000286835.7:p.Ile69Val,SCAF4,CCDS33537.1,missense,chr21:33076194,T/C,benign(0.206),tolerated(0.053),5.83,5.68,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd29958il1,il,3,snv,ENST00000286835.7:c.195A>G,ENST00000286835.7:c.195A>G(p.=),SCAF4,CCDS33537.1,synonymous,chr21:33076204,T/C,silent (0),-,1.97,5.68,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd29958il1,il,3,snv,ENST00000373164.1:c.276G>A,ENSP00000362258.1:p.Met92Ile,UNC5CL,CCDS4847.1,missense,chr6:41002538,C/T,benign(0),tolerated(0.34),0.606,95.47,-,-,-,-,-,-,-,-,-,-
+NEW - Epi4K (trio reported),LGS,lgsnd28560im1,im,1,snv,ENST00000345728.5:c.1775A>G,ENSP00000339950.5:p.Asn592Ser,FERMT3,CCDS8059.1,missense,chr11:63990624,A/G,probably_damaging(0.976),tolerated(0.15),5.19,39.24,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd27952in1,in,3,snv,ENST00000400445.3:c.6637C>T,ENSP00000383295.3:p.Arg2213X,NBEA,CCDS45026.1,stop gained,chr13:36124665,C/T,LoF (1),-,5.88,1.98,YES,-,YES,YES,-,-,YES,SCZx1,-,-
+Reported - Epi4K,LGS,lgsnd27952in1,in,3,snv,ENST00000367057.3:c.2330A>C,ENSP00000356024.3:p.His777Pro,CR2,CCDS31007.1,missense,chr1:207648175,A/C,possibly_damaging(0.631),tolerated(0.24),-2.65,57.56,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd27952in1,in,3,snv,ENST00000309731.7:c.125C>T,ENSP00000311657.7:p.Pro42Leu,GRAMD2,CCDS32283.1,missense,chr15:72462197,G/A,benign(0.001),tolerated(0.28),-5.29,74.37,-,-,-,-,-,-,-,-,-,-
+NEW - Epi4K (trio reported),LGS,lgsnd30299is1,is,1,snv,ENST00000394854.3:c.275A>G,ENSP00000378323.3:p.His92Arg,PPP3CA,CCDS34037.1,missense,chr4:102030220,T/C,probably_damaging(1),deleterious(0),5.07,25.15,YES,-,YES,YES,-,-,YES,-,-,-
+Reported - Epi4K,LGS,lgsnd30383iv1,iv,1,snv,ENST00000381971.3:c.2769C>G,ENST00000381971.3:c.2769C>G(p.=),GLIS3,CCDS43784.1,synonymous,chr9:3828296,G/C,silent (0),-,4.1,52.86,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd30631iw1,iw,2,snv,ENST00000357086.4:c.7212A>G,ENST00000357086.4:c.7212A>G(p.=),ITPR1,CCDS46740.2,synonymous,chr3:4853032,A/G,silent (0),-,-9.33,0.40,YES,-,-,YES,-,YES,YES,ASDx1; SCZx1,-,-
+Reported - Epi4K,LGS,lgsnd30631iw1,iw,2,indel,ENST00000332312.3:c.2149_2156delCCACTGAG,ENSP00000332806.3:p.Pro717AlafsX29,EMILIN3,CCDS13316.1,"frameshift, feature truncation",chr20:39990052,CCTCAGTGG/C,N/A,-,N/A,18.26,-,-,N/A,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd30378ix1,ix,1,snv,ENST00000306749.2:c.461G>A,ENSP00000304592.2:p.Ser154Asn,FASN,CCDS11801.1,missense,chr17:80051289,C/T,probably_damaging(1),deleterious(0),4.9,0.38,YES,-,YES,-,-,-,YES,EEx1,-,-
+Reported - Epi4K,LGS,lgsnd30216iy1,iy,1,snv,ENST00000409050.1:c.602+1G>A,-,SCN1A,CCDS54414.1,splice donor,chr2:166911147,C/T,LoF (1),-,5.24,4.03,YES,YES,YES,YES,YES,YES,-,ASDx1; EEx7,-,Epileptic Encephalopathies : Epi4K : 2013: PMID23934111;  Severe Myoclonic epilepsy of infancy : Fujiwara : 2003 : PMID12566275
+Reported - Epi4K,LGS,lgsnd29125iz1,iz,2,snv,ENST00000341948.4:c.926A>G,ENSP00000345491.4:p.Asp309Gly,PCDHB13,CCDS4255.1,missense,chr5:140594621,A/G,probably_damaging(0.935),deleterious(0),3.51,67.50,-,-,-,YES,-,-,-,-,YES: synonymous DNM,-
+Reported - Epi4K,LGS,lgsnd29125iz1,iz,2,snv,ENST00000232003.4:c.1481A>G,ENSP00000232003.4:p.Gln494Arg,HRG,CCDS3280.1,missense,chr3:186395575,A/G,benign(0.186),deleterious(0.02),2.33,99.55,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd24005j1,j,1,snv,ENST00000369155.2:c.371G>C,ENSP00000358151.2:p.Ser124Thr,HIST2H2BE,CCDS936.1,missense,chr1:149857820,C/G,probably_damaging(0.921),deleterious(0),6.07,64.11,YES,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd30798ja1,ja,2,snv,ENST00000228437.5:c.2370G>A,ENST00000228437.5:c.2370G>A(p.=),PRDM4,CCDS9115.1,synonymous,chr12:108128023,C/T,silent (0),-,-3.1,4.56,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd30798ja1,ja,2,snv,ENST00000379989.3:c.379C>T,ENSP00000369325.3:p.His127Tyr,CDKL5,CCDS14186.1,missense,chrX:18598064,C/T,probably_damaging(0.993),deleterious(0),5.98,15.86,YES,YES,YES,-,-,-,YES,EEx2,-,-
+Reported - Epi4K,LGS,lgsnd32224jb1,jb,2,snv,ENST00000240304.1:c.475A>G,ENSP00000240304.1:p.Met159Val,LUC7L3,CCDS11573.1,missense,chr17:48821115,A/G,possibly_damaging(0.506),tolerated(0.1),5.49,55.22,YES,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd32224jb1,jb,2,snv,ENST00000254759.3:c.175A>G,ENSP00000254759.3:p.Ile59Val,COQ3,CCDS5042.1,missense,chr6:99831632,T/C,benign(0),deleterious(0.01),1.88,83.25,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd36210jc1,jc,2,snv,ENST00000388996.3:c.688C>T,ENSP00000373648.3:p.Arg230Cys,KCNQ3,CCDS34943.1,missense,chr8:133192493,G/A,probably_damaging(0.985),deleterious(0),5.52,30.82,YES,-,-,-,YES,YES,YES,severeIDx1,-,"Intellectual disability, nonsyndromic : Rauch : 2012 : PMID23020937"
+Reported - Epi4K,LGS,lgsnd36210jc1,jc,2,snv,ENST00000407315.1:c.628G>A,ENSP00000385006.1:p.Val210Met,THAP4,CCDS2551.1,missense,chr2:242572944,C/T,benign(0.077),tolerated(0.05),-0.915,40.45,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd31159jd1,jd,1,snv,ENST00000431683.2:c.1589G>C,ENSP00000396615.2:p.Gly530Ala,GLB1L3,CCDS44780.1,missense,chr11:134183844,G/C,possibly_damaging(0.735),deleterious(0.03),1.8,10.89,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd30864jf1,jf,3,snv,ENST00000216075.6:c.267G>A,ENST00000216075.6:c.267G>A(p.=),MIOX,CCDS14092.1,synonymous,chr22:50926404,G/A,silent (0),-,-8.76,39.11,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd30864jf1,jf,3,snv,ENST00000358671.5:c.170A>C,ENSP00000351497.5:p.Gln57Pro,FCGR2B,CCDS30924.1,missense,chr1:161641218,A/C,benign(0),tolerated(1),1.55,58.53,-,-,-,YES,-,YES,-,-,-,-
+Reported - Epi4K,LGS,lgsnd30864jf1,jf,3,snv,ENST00000490799.1:c.813A>G,ENST00000490799.1:c.813A>G(p.=),SLC26A8,CCDS4813.1,synonymous,chr6:35959565,T/C,silent (0),-,2.99,85.29,-,-,-,-,-,-,-,SCZx1,-,-
+Reported - Epi4K,LGS,lgsnd30965jg1,jg,6,snv,ENST00000344204.4:c.8834C>T,ENSP00000339299.4:p.Thr2945Met,TRIO,CCDS3883.1,missense,chr5:14508071,C/T,probably_damaging(0.998),deleterious(0.04),4.28,0.18,YES,-,YES,-,-,-,YES,ASDx1; severeIDx2,-,-
+Reported - Epi4K,LGS,lgsnd30965jg1,jg,6,snv,ENST00000231572.3:c.667C>T,ENSP00000231572.3:p.Arg223Cys,RARS,CCDS4367.1,missense,chr5:167922407,C/T,probably_damaging(0.999),deleterious(0),5.03,25.64,-,-,-,-,-,-,-,EEx1,-,-
+Reported - Epi4K,LGS,lgsnd30965jg1,jg,6,snv,ENST00000450689.2:c.2818G>A,ENSP00000413445.2:p.Val940Ile,KIAA1324L,CCDS47632.1,missense,chr7:86522284,C/T,possibly_damaging(0.653),tolerated(0.41),6.02,26.98,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd30965jg1,jg,6,indel,ENST00000356463.3:c.882_883delTC,ENSP00000348848.3:p.Gln295ValfsX11,WDR45,CCDS14318.1,"frameshift, feature truncation",chrX:48932887,TGA/T,N/A,-,N/A,33.97,-,-,N/A,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd30965jg1,jg,6,snv,ENST00000419765.3:c.516T>C,ENST00000419765.3:c.516T>C(p.=),SVOPL,CCDS47721.1,synonymous,chr7:138341211,A/G,silent (0),-,-7.47,48.87,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd30965jg1,jg,6,snv,ENST00000549706.1:c.394G>A,ENSP00000448310.1:p.Ala132Thr,BEST2,CCDS42506.1,missense,chr19:12865512,G/A,possibly_damaging(0.769),tolerated(0.06),4.24,72.60,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd31059jh1,jh,1,snv,ENST00000279593.3:c.1382G>T,ENSP00000279593.3:p.Cys461Phe,GRIN2B,CCDS8662.1,missense,chr12:13768545,C/A,probably_damaging(0.999),deleterious(0),6.03,1.07,YES,-,YES,YES,YES,-,YES,ASDx1; severeIDx1,YES: frameshift DNM,-
+Reported - Epi4K,LGS,lgsnd31063ji1,ji,2,indel,ENST00000367931.1:c.396delT,ENSP00000356908.1:p.His133IlefsX23,TAAR2,CCDS34541.1,"frameshift, feature truncation",chr6:132938948,GA/G,N/A,-,N/A,67.19,-,-,N/A,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd31063ji1,ji,2,snv,ENST00000374362.2:c.912A>T,ENST00000374362.2:c.912A>T(p.=),FAM21C,CCDS44374.2,synonymous,chr10:46246267,A/T,silent (0),-,-0.707,Unassessed,-,-,N/A,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd31153jj1,jj,2,snv,ENST00000236959.9:c.1107A>G,ENST00000236959.9:c.1107A>G(p.=),ATIC,CCDS2398.1,synonymous,chr2:216203510,A/G,silent (0),-,-1.35,69.62,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd31153jj1,jj,2,snv,ENST00000314759.5:c.1162A>G,ENSP00000319417.5:p.Ile388Val,SKA3,CCDS31946.1,missense,chr13:21729908,T/C,benign(0),tolerated(1),1.15,88.30,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd31244jk1,jk,2,snv,ENST00000503366.1:c.596A>G,ENSP00000425236.1:p.Lys199Arg,ANK3,CCDS55711.1,missense,chr10:62023645,T/C,probably_damaging(0.995),tolerated(0.3),5.19,0.34,YES,-,YES,YES,-,YES,YES,ASDx1,-,-
+Reported - Epi4K,LGS,**lgsnd31244jk1,**jk,2,snv,ENST00000373299.1:c.568C>T,ENSP00000362396.1:p.Arg190Trp,STXBP1,CCDS35146.1,missense,chr9:130425622,C/T,probably_damaging(1),deleterious(0),5.64,14.97,YES,YES,YES,YES,-,-,YES,ASDx1; EEx4 ; severeIDx3,-,"Epileptic encephalopathy, early onset : Carvill : 2013 : PMID23708187"
+Reported - Epi4K,LGS,lgsnd31664jn1,jn,1,snv,ENST00000262738.3:c.8722C>T,ENSP00000262738.3:p.Gln2908X,CELSR1,CCDS14076.1,stop gained,chr22:46760466,G/A,LoF (1),-,-1.08,0.63,-,-,YES,-,-,-,-,SCZx1,-,-
+Reported - Epi4K,LGS,lgsnd31533jo1,jo,1,snv,ENST00000546148.1:c.785G>C,ENSP00000445451.1:p.Gly262Ala,ZSCAN2,CCDS10329.2,missense,chr15:85164211,G/C,possibly_damaging(0.545),tolerated(0.29),4.78,5.86,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd31867jq1,jq,2,snv,ENST00000303296.4:c.617G>A,ENSP00000304226.4:p.Gly206Asp,HIPK3,CCDS7884.1,missense,chr11:33308577,G/A,probably_damaging(1),deleterious(0),5.65,14.24,YES,-,YES,-,-,-,YES,-,-,-
+Reported - Epi4K,LGS,lgsnd31867jq1,jq,2,snv,ENST00000371421.4:c.567T>C,ENST00000371421.4:c.567T>C(p.=),ARRDC1,CCDS7049.1,synonymous,chr9:140508615,T/C,silent (0),-,-2.21,62.10,-,-,-,-,-,-,-,EEx1,-,-
+Reported - Epi4K,LGS,lgsnd32497jr1,jr,2,snv,ENST00000252542.4:c.584C>T,ENSP00000252542.3:p.Ser195Leu,SAFB2,CCDS32879.1,missense,chr19:5613498,G/A,benign(0.037),tolerated(0.08),4.2,9.68,-,-,-,-,-,-,-,EEx1,-,-
+Reported - Epi4K,LGS,lgsnd32497jr1,jr,2,snv,ENST00000400188.3:c.326A>G,ENSP00000383049.3:p.Glu109Gly,GABRB3,CCDS53921.1,missense,chr15:26828484,T/C,probably_damaging(0.974),deleterious(0),4.98,22.36,YES,YES,YES,YES,YES,YES,-,ASDx1; EEx3,-,-
+Reported - Epi4K,LGS,lgsnd32265jt1,jt,1,snv,ENST00000409085.3:c.756G>A,ENST00000409085.3:c.756G>A(p.=),AAK1,CCDS1893.2,synonymous,chr2:69757255,C/T,silent (0),-,-0.947,15.91,-,-,-,-,-,-,YES,-,-,-
+Reported - Epi4K,LGS,lgsnd32289ju1,ju,3,snv,ENST00000409050.1:c.1177C>T,ENSP00000386312.1:p.Arg393Cys,SCN1A,CCDS54414.1,missense,chr2:166903480,G/A,probably_damaging(0.999),deleterious(0),5.49,4.03,YES,YES,YES,YES,YES,YES,-,ASDx1; EEx7,-,Severe Myoclonic epilepsy of infancy : Mancardi : 2006 : PMID17054684
+Reported - Epi4K,LGS,lgsnd32289ju1,ju,3,snv,ENST00000185206.6:c.464C>T,ENSP00000185206.6:p.Ser155Phe,CLIC5,CCDS47438.1,missense,chr6:46047516,G/A,benign(0.008),deleterious(0),3.48,90.98,-,-,-,-,-,-,-,SCZx1,-,-
+Reported - Epi4K,LGS,lgsnd32289ju1,ju,3,snv,ENST00000334270.2:c.2312+2T>C,-,TTF1,CCDS6948.1,splice donor,chr9:135263524,A/G,LoF (1),-,5.9,93.67,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd31650jv1,jv,1,snv,ENST00000388833.3:c.1571G>C,ENSP00000373485.3:p.Gly524Ala,TSNAXIP1,CCDS10846.2,missense,chr16:67861220,G/C,possibly_damaging(0.467),tolerated(0.52),4.02,22.70,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd24191jw1,jw,1,snv,ENST00000311550.5:c.358G>A,ENSP00000308725.5:p.Asp120Asn,GABRB3,CCDS10019.1,missense,chr15:26866564,C/T,probably_damaging(1),deleterious(0),5.81,22.36,YES,YES,YES,YES,YES,YES,-,ASDx1; EEx3,-,-
+Reported - Epi4K,LGS,lgsnd32562jx1,jx,1,snv,ENST00000376530.3:c.252G>A,ENST00000376530.3:c.252G>A(p.=),TTYH1,CCDS12893.1,synonymous,chr19:54930427,G/A,silent (0),-,-2.91,55.69,-,-,-,-,-,-,YES,-,-,-
+Reported - Epi4K,LGS,lgsnd31894jz1,jz,1,snv,ENST00000352689.6:c.1531A>G,ENSP00000323527.6:p.Met511Val,MKLN1,CCDS34754.1,missense,chr7:131147981,A/G,benign(0.004),tolerated(0.17),5.93,25.15,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd32630ka1,ka,2,snv,ENST00000317025.7:c.1391C>T,ENSP00000313983.7:p.Pro464Leu,WHSC1L1,CCDS43729.1,missense,chr8:38187086,G/A,probably_damaging(0.999),tolerated(0.07),5.41,19.93,-,-,YES,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd32630ka1,ka,2,snv,ENST00000367002.4:c.210C>A,ENST00000367002.4:c.210C>A(p.=),RD3,CCDS1498.1,synonymous,chr1:211654548,G/T,silent (0),-,3.93,92.19,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd31959kb1,kb,2,snv,ENST00000360009.2:c.113G>A,ENSP00000353104.2:p.Arg38His,DHDDS,CCDS281.1,missense,chr1:26764708,G/A,probably_damaging(1),deleterious(0),5.72,46.74,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd31959kb1,kb,2,snv,ENST00000445716.1:c.282G>A,ENST00000445716.1:c.282G>A(p.=),FAM133B,CCDS47640.1,synonymous,chr7:92207491,C/T,silent (0),-,5.63,58.00,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd33323kc1,kc,3,snv,ENST00000341511.6:c.4743A>G,ENST00000341511.6:c.4743A>G(p.=),ABCA2,CCDS43909.1,synonymous,chr9:139907578,T/C,silent (0),-,-9.35,0.12,YES,-,-,-,-,-,YES,EEx1,-,-
+Reported - Epi4K,LGS,lgsnd33323kc1,kc,3,snv,ENST00000228476.3:c.746A>G,ENSP00000228476.3:p.Glu249Gly,DAO,CCDS9122.1,missense,chr12:109292505,A/G,benign(0.067),tolerated(0.21),3.53,17.16,-,-,-,YES,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd33323kc1,kc,3,snv,ENST00000539749.1:c.333C>A,ENSP00000443229.1:p.Asn111Lys,CLDN19,CCDS53306.1,missense,chr1:43204147,G/T,possibly_damaging(0.522),tolerated(0.05),3.97,84.93,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd32727kd1,kd,2,snv,ENST00000409050.1:c.602+1G>A,-,SCN1A,CCDS54414.1,splice donor,chr2:166911147,C/T,LoF (1),-,5.24,4.03,YES,YES,YES,YES,YES,YES,-,ASDx1; EEx7,-,Epileptic Encephalopathies : Epi4K : 2013: PMID23934111;  Severe Myoclonic epilepsy of infancy : Fujiwara : 2003 : PMID12566275
+Reported - Epi4K,LGS,lgsnd32727kd1,kd,2,snv,ENST00000371627.4:c.2862T>A,ENST00000371627.4:c.2862T>A(p.=),TNKS2,CCDS7417.1,synonymous,chr10:93614832,T/A,silent (0),-,5.11,5.08,-,-,-,-,-,-,-,severeIDx1,-,-
+Reported - Epi4K,LGS,lgsnd32763ke1,ke,2,snv,ENST00000405260.1:c.2037C>T,ENST00000405260.1:c.2037C>T(p.=),PASK,CCDS2545.1,synonymous,chr2:242066293,G/A,silent (0),-,-1.42,72.76,YES,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd32763ke1,ke,2,snv,ENST00000369740.1:c.1183A>G,ENSP00000358755.1:p.Thr395Ala,CHIA,CCDS41368.1,missense,chr1:111862840,A/G,benign(0),tolerated(0.57),3.94,97.87,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd32802kf1,kf,2,snv,ENST00000283256.6:c.2558G>A,ENSP00000283256.6:p.Arg853Gln,SCN2A,CCDS33314.1,missense,chr2:166198975,G/A,probably_damaging(0.983),deleterious(0),5.48,1.77,YES,YES,YES,YES,YES,-,YES,ASDx3; EEx2; severeIDx4; SCZx1,-,Epileptic Encephalopathies : Epi4K : 2013: PMID23934111
+Reported - Epi4K,LGS,lgsnd32802kf1,kf,2,snv,ENST00000357008.2:c.1021C>A,ENSP00000349508.2:p.Arg341Ser,CHD4,CCDS8552.1,missense,chr12:6709742,G/T,possibly_damaging(0.759),tolerated(0.45),3.49,2.82,YES,-,-,-,-,-,YES,EEx1,YES: missense DNM,-
+Reported - Epi4K,LGS,lgsnd34306ki1,ki,2,indel,ENST00000215095.5:c.155delA,ENSP00000215095.5:p.Gln52ArgfsX2,STX1B,CCDS10699.1,"frameshift, feature truncation",chr16:31012464,CT/C,N/A,-,N/A,41.25,YES,-,N/A,-,-,YES,-,-,-,-
+Reported - Epi4K,LGS,lgsnd34306ki1,ki,2,snv,ENST00000262041.5:c.116C>T,ENSP00000262041.5:p.Pro39Leu,MEOX2,CCDS34605.1,missense,chr7:15725912,G/A,probably_damaging(0.977),deleterious(0.01),4.46,51.66,YES,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd32879kj1,kj,1,snv,ENST00000372923.3:c.529G>C,ENSP00000362014.3:p.Ala177Pro,DNM1,CCDS6895.1,missense,chr9:130981471,G/C,probably_damaging(1),deleterious(0),5.42,19.54,YES,YES,YES,YES,-,YES,YES,EEx4,-,-
+Reported - Epi4K,LGS,lgsnd33346km1,km,2,snv,ENST00000405093.3:c.4726C>T,ENSP00000386041.3:p.Arg1576Trp,MYH6,CCDS9600.1,missense,chr14:23855757,G/A,probably_damaging(1),deleterious(0),2.26,0.66,-,-,YES,-,-,-,-,-,YES: missense DNM,-
+Reported - Epi4K,LGS,lgsnd33346km1,km,2,snv,ENST00000369046.4:c.1389T>C,ENST00000369046.4:c.1389T>C(p.=),QRSL1,CCDS5057.1,synonymous,chr6:107113679,T/C,silent (0),-,-3.77,77.16,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd33706ko1,ko,1,snv,ENST00000375365.2:c.2707C>T,ENSP00000364514.2:p.Gln903X,IQSEC2,CCDS35298.1,stop gained,chrX:53265633,G/A,LoF (1),-,5.08,21.20,-,-,YES,-,-,-,YES,severeIDx1,-,-
+Reported - Epi4K,LGS,lgsnd33762kq1,kq,1,indel,ENST00000395325.3:c.844_845insA,ENSP00000378735.3:p.Gly282GlufsX33,DNAJC6,CCDS30739.1,"frameshift, feature elongation",chr1:65852515,G/GA,N/A,-,N/A,16.07,-,-,N/A,-,-,-,YES,-,-,-
+Reported - Epi4K,LGS,lgsnd34131kr1,kr,3,snv,ENST00000409262.2:c.4131G>A,ENST00000409262.2:c.4131G>A(p.=),TET3,CCDS46339.1,synonymous,chr2:74328451,G/A,silent (0),-,-5.8,3.48,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd34131kr1,kr,3,snv,ENST00000307765.5:c.2057G>T,ENSP00000303248.5:p.Arg686Ile,RXFP1,CCDS43276.1,missense,chr4:159572990,G/T,possibly_damaging(0.893),tolerated(0.05),5.75,32.06,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd34131kr1,kr,3,snv,ENST00000312428.6:c.9373G>C,ENSP00000311273.6:p.Asp3125His,DNAH7,CCDS42794.1,missense,chr2:196682472,C/G,possibly_damaging(0.603),deleterious(0),4.74,99.82,-,-,-,-,-,-,-,EEx1,-,-
+Reported - Epi4K,LGS,lgsnd34164ks1,ks,1,snv,ENST00000368799.1:c.12084T>C,ENST00000368799.1:c.12084T>C(p.=),FLG,CCDS30860.1,synonymous,chr1:152275278,A/G,silent (0),-,-1.99,99.99,YES,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd34593kt1,kt,2,snv,ENST00000341316.2:c.1220T>C,ENSP00000341157.2:p.Ile407Thr,SPG7,CCDS10978.1,missense,chr16:89598940,T/C,probably_damaging(0.999),deleterious(0),5.63,7.62,-,-,YES,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd34593kt1,kt,2,snv,ENST00000559228.1:c.836G>A,ENSP00000452885.1:p.Trp279X,FAM63B,CCDS42046.1,stop gained,chr15:59064430,G/A,LoF (1),-,4.95,43.91,-,-,-,-,-,-,-,ASDx1,-,-
+Reported - Epi4K,LGS,lgsnd34816ku1,ku,2,snv,ENST00000366574.2:c.9568C>T,ENSP00000355533.2:p.Arg3190X,RYR2,CCDS55691.1,stop gained,chr1:237868631,C/T,LoF (1),-,-3.17,0.05,YES,-,YES,-,-,YES,YES,SCZx1,-,-
+Reported - Epi4K,LGS,lgsnd34816ku1,ku,2,indel,ENST00000409050.1:c.3822_3823insA,ENSP00000386312.1:p.Ala1275SerfsX29,SCN1A,CCDS54414.1,"frameshift, feature elongation",chr2:166866325,A/AT,N/A,-,N/A,4.03,YES,YES,N/A,YES,YES,YES,-,ASDx1; EEx7,-,-
+Reported - Epi4K,LGS,lgsnd34500kx1,kx,4,snv,ENST00000369850.3:c.5348T>C,ENSP00000358866.3:p.Leu1783Pro,FLNA,CCDS48194.1,missense,chrX:153582817,A/G,probably_damaging(0.943),tolerated(0.16),5.67,0.44,YES,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd34500kx1,kx,4,snv,ENST00000265944.5:c.2821A>G,ENSP00000265944.4:p.Met941Val,MYO3A,CCDS7148.1,missense,chr10:26446266,A/G,probably_damaging(0.944),deleterious(0.03),5.31,90.66,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd34500kx1,kx,4,snv,ENST00000344363.5:c.383G>A,ENSP00000344420.5:p.Cys128Tyr,KRTAP1-3,CCDS42323.1,missense,chr17:39190691,C/T,benign(0.332),deleterious(0),3.53,92.68,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd34500kx1,kx,4,snv,ENST00000260229.4:c.1033+2T>C,-,MMP27,CCDS8319.1,splice donor,chr11:102565696,A/G,LoF (1),-,5.6,92.79,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd34528kz1,kz,3,snv,ENST00000389506.5:c.3460C>T,ENSP00000374157.5:p.Arg1154Trp,MLL,CCDS31686.1,missense,chr11:118348807,C/T,probably_damaging(0.995),deleterious(0),5.07,0.41,YES,-,YES,-,-,-,YES,ASDx1,-,-
+Reported - Epi4K,LGS,lgsnd34528kz1,kz,3,snv,ENST00000271277.6:c.590G>A,ENSP00000271277.6:p.Gly197Glu,CTTNBP2NL,CCDS845.1,missense,chr1:112998704,G/A,benign(0.315),deleterious(0.01),6.07,48.69,YES,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd34528kz1,kz,3,snv,ENST00000374434.3:c.646G>A,ENSP00000363557.3:p.Glu216Lys,MYOM3,CCDS41281.1,missense,chr1:24426180,C/T,possibly_damaging(0.886),deleterious(0.05),4.81,92.65,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd35817lb1,lb,1,snv,ENST00000373095.1:c.809G>T,ENSP00000362187.1:p.Gly270Val,FAM102A,CCDS35150.1,missense,chr9:130707754,C/A,possibly_damaging(0.584),tolerated(0.42),4.88,18.59,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd36163lc1,lc,1,snv,ENST00000396978.1:c.483A>G,ENST00000396978.1:c.483A>G(p.=),RHOG,CCDS7748.1,synonymous,chr11:3848886,T/C,silent (0),-,2.42,56.64,YES,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,LGS,lgsnd36798lg1,lg,2,snv,ENST00000303395.4:c.4529C>A,ENSP00000303540.4:p.Ala1510Glu,SCN1A,CCDS54413.1,missense,chr2:166852575,G/T,probably_damaging(0.999),deleterious(0),4.95,4.03,YES,YES,YES,YES,YES,YES,-,ASDx1; EEx7,-,-
+Reported - Epi4K,LGS,lgsnd36798lg1,lg,2,indel,ENST00000373983.2:c.1780_1782delAGT,ENSP00000363095.1:p.Ser594del,TRIM32,CCDS6817.1,inframe deletion,chr9:119461800,CAGT/C,N/A,-,N/A,18.06,YES,-,N/A,-,-,-,YES,-,-,-
+Reported - Epi4K,IS,isnd24188n1,n,3,snv,ENST00000278379.3:c.244G>A,ENSP00000278379.3:p.Gly82Arg,SLC1A2,CCDS31459.1,missense,chr11:35336636,C/T,probably_damaging(1),deleterious(0),5.66,5.03,YES,-,YES,YES,-,YES,YES,-,-,-
+Reported - Epi4K,IS,isnd24188n1,n,3,snv,ENST00000263650.7:c.982G>A,ENSP00000263650.7:p.Asp328Asn,OSBPL5,CCDS31344.1,missense,chr11:3128570,C/T,benign(0.068),tolerated(0.05),4.8,20.96,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd24188n1,n,3,snv,ENST00000295709.3:c.3370T>A,ENSP00000295709.3:p.Ser1124Thr,STK36,CCDS2421.1,missense,chr2:219563637,T/A,benign(0.001),tolerated(0.58),-3.32,92.86,-,-,-,-,-,-,-,ASDx1,-,-
+Reported - Epi4K,IS,isnd24217o1,o,2,snv,ENST00000394001.1:c.566C>T,ENSP00000377570.2:p.Thr189Met,KRT34,CCDS11390.1,missense,chr17:39537456,G/A,benign(0.402),tolerated(0.07),1.91,89.56,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd24217o1,o,2,indel,ENST00000460472.2:c.35039_35042delCAAA,ENSP00000434586.1:p.Thr11680ArgfsX10,TTN,CCDS54421.1,"frameshift, feature truncation",chr2:179454214,CTTTG/C,N/A,-,N/A,98.04,YES,-,N/A,-,-,-,-,ASDx4; EEx2,YES: 2x missense DNM,-
+Reported - Epi4K,IS,isnd25070u1,u,2,snv,ENST00000371953.3:c.737C>T,ENSP00000361021.3:p.Pro246Leu,PTEN,CCDS31238.1,missense,chr10:89717712,C/T,benign(0.113),tolerated(0.11),5.15,36.86,YES,-,-,YES,-,-,YES,ASDx1,-,Bannayan-Riley-Ruvalcaba syndrome : Marsh : 1999 : PMID10400993
+Reported - Epi4K,IS,isnd25070u1,u,2,snv,ENST00000421593.2:c.1648A>G,ENSP00000394168.2:p.Thr550Ala,SLCO1B7,CCDS44843.1,missense,chr12:21229427,A/G,benign(0.169),tolerated(0.13),2.4,96.47,-,-,-,-,-,-,-,SCZx1,-,-
+Reported - Epi4K,IS,isnd25181w1,w,1,snv,ENST00000302345.2:c.249C>T,ENST00000302345.2:c.249C>T(p.=),CANT1,CCDS11760.1,synonymous,chr17:76993456,G/A,silent (0),-,-4.61,55.69,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd25582x1,x,3,snv,ENST00000340648.4:c.539G>T,ENSP00000339145.4:p.Gly180Val,RRP1B,CCDS33577.1,missense,chr21:45095034,G/T,probably_damaging(1),deleterious(0),5.68,29.43,YES,-,-,-,-,-,-,SCZx1,-,-
+Reported - Epi4K,IS,isnd25582x1,x,3,snv,ENST00000460006.1:c.664A>G,ENSP00000419879.1:p.Met222Val,CDS2,CCDS13088.1,missense,chr20:5163782,A/G,benign(0.076),tolerated(0.08),5.27,31.69,-,-,-,-,-,-,-,-,-,-
+Reported - Epi4K,IS,isnd25582x1,x,3,snv,ENST00000383440.2:c.5684G>A,ENSP00000372932.2:p.Ser1895Asn,ANKRD12,CCDS42411.1,missense,chr18:9263876,G/A,probably_damaging(0.999),deleterious(0.002),5.87,45.36,-,-,-,-,-,-,-,-,-,-
+NEW - Epi4K (trio reported),IS,isnd25682y1,y,1,snv,ENST00000367573.2:c.2101A>G,ENSP00000356545.2:p.Ile701Val,CACNA1E,CCDS55664.1,missense,chr1:181693632,A/G,benign(0.051),tolerated(0.13),4.86,0.71,YES,-,-,YES,YES,-,YES,ASDx2,-,-
+Reported - Epi4K,IS,isnd25839z1,z,2,snv,ENST00000295454.3:c.737T>C,ENSP00000295454.3:p.Phe246Ser,GABRB1,CCDS3474.1,missense,chr4:47405630,T/C,probably_damaging(0.997),deleterious(0),5.43,28.93,YES,-,-,-,YES,-,-,-,-,-
+Reported - Epi4K,IS,isnd25839z1,z,2,snv,ENST00000374271.4:c.748A>G,ENSP00000363389.4:p.Met250Val,PDIK1L,CCDS274.1,missense,chr1:26448790,A/G,possibly_damaging(0.752),tolerated(0.15),5.81,42.88,-,-,-,-,-,-,-,-,-,-
+NEW - Euro trio,IS,NLES1,NLES1,2,indel,ENST00000275034.3:c.919_923delATAAA,ENSP00000275034.3:p.Ile307ProfsX22,PHIP,CCDS4987.1,splice donor,chr6:79735235,CTTTAT/C,N/A,-,N/A,5.49,-,-,N/A,-,-,-,-,severeIDx1,-,-
+NEW - Euro trio,IS,NLES1,NLES1,2,indel,ENST00000374114.3:c.1091_1092delGA,ENSP00000363228.3:p.Arg364AsnfsX11,RBM12,CCDS13261.1,coding frameshift,chr20:34242152,TTC/TC,N/A,-,N/A,8.47,-,-,N/A,-,-,-,-,-,-,-
+NEW - Euro trio,IS,NLES10,NLES10,2,snv,ENST00000259455.2:c.2114T>A,ENSP00000259455.2:p.Ile705Asn,GABBR2,CCDS6736.1,missense,chr9:101068518,A/T,possibly_damaging(0.634),deleterious(0),5,5.08,YES,-,-,YES,-,YES,YES,EEx1,-,-
+NEW - Euro trio,IS,NLES10,NLES10,2,indel,ENST00000321870.1:c.659_660insAGCGGC,ENSP00000318799.1:p.Gly220_Ser221insAlaAla,BHLHE22,CCDS6179.1,coding frameshift,chr8:65494007,T/TAGCGGC,N/A,-,N/A,Unassessed,-,-,N/A,-,-,-,-,-,-,-
+NEW - Euro trio,IS,NLES12,NLES12,2,snv,ENST00000407449.1:c.339A>G,ENST00000407449.1:c.339A>G(p.=),PIKFYVE,CCDS54431.1,synonymous,chr2:209141452,A/G,silent (0),-,2.19,4.16,-,-,-,-,-,-,YES,-,-,-
+NEW - Euro trio,IS,NLES12,NLES12,2,indel,ENST00000286070.5:c.541_542delTG,ENSP00000286070.5:p.Cys181X,RBM45,CCDS33335.1,coding sequence,chr2:178982898,CTG/C,N/A,-,N/A,34.32,-,-,N/A,-,-,-,-,-,-,-
+NEW - Euro trio,IS,NLES13,NLES13,2,snv,ENST00000262493.6:c.808A>C,ENSP00000262493.6:p.Asn270His,GNAO1,CCDS10756.1,missense,chr16:56385380,A/C,probably_damaging(0.999),deleterious(0),5.91,13.94,YES,YES,YES,YES,-,YES,YES,EEx1; SCZx1,-,-
+NEW - Euro trio,IS,NLES13,NLES13,2,snv,ENST00000373289.3:c.1545C>T,ENST00000373289.3:c.1545C>T(p.=),TTC16,CCDS6875.1,synonymous,chr9:130489368,C/T,silent (0),-,-2.07,84.18,-,-,-,-,-,-,-,-,-,-
+NEW - Euro trio,IS,NLES14,NLES14,1,snv,ENST00000389232.4:c.14104G>A,ENSP00000373884.4:p.Asp4702Asn,RYR3,CCDS45210.1,missense,chr15:34150077,G/A,benign(0.283),tolerated(0.09),4.75,0.06,YES,-,-,YES,-,-,-,EEx1; SCZx2,-,-
+NEW - Euro trio,IS,NLES15,NLES15,2,snv,ENST00000396001.2:c.933G>A,ENST00000396001.2:c.933G>A(p.=),DNAH9,CCDS11161.1,synonymous,chr17:11833302,G/A,silent (0),-,1.95,78.06,-,-,-,-,-,-,-,ASDx1; SCZx1,-,-
+NEW - Euro trio,IS,NLES15,NLES15,2,snv,ENST00000302787.2:c.83G>A,ENSP00000305653.2:p.Gly28Asp,LETM1,CCDS3355.1,missense,chr4:1850936,C/T,benign(0.374),deleterious(0.02),3.58,81.09,-,-,-,-,-,-,-,-,-,-
+NEW - Euro trio,IS,NLES16,NLES16,3,snv,ENST00000243077.3:c.4189C>A,ENST00000243077.3:c.4189C>A(p.=),LRP1,CCDS8932.1,synonymous,chr12:57571021,C/A,silent (0),-,5,0.02,YES,-,-,YES,-,-,YES,ASDx2; SCZx1; severeIDx1,YES: missense DNM,-
+NEW - Euro trio,IS,NLES16,NLES16,3,snv,ENST00000372923.3:c.709C>T,ENSP00000362014.3:p.Arg237Trp,DNM1,CCDS6895.1,missense,chr9:130982480,C/T,probably_damaging(0.999),deleterious(0),3.81,19.54,YES,YES,YES,YES,-,YES,YES,EEx4,-,-
+NEW - Euro trio,IS,NLES16,NLES16,3,snv,ENST00000262715.5:c.2899C>G,ENSP00000262715.5:p.Gln967Glu,TEP1,CCDS9548.1,missense,chr14:20854317,G/C,benign(0.045),tolerated(0.13),4.48,99.71,-,-,-,-,-,-,-,SCZx1,YES: missense DNM,-
+NEW - Euro trio,IS,NLEs18,NLEs18,1,snv,ENST00000374695.3:c.8662T>C,ENSP00000363827.3:p.Ser2888Pro,HSPG2,CCDS30625.1,missense,chr1:22169886,A/G,possibly_damaging(0.9),deleterious(0.01),4.82,32.07,YES,-,-,-,-,-,-,-,-,-
+NEW - Euro trio,IS,NLES19,NLES19,1,snv,ENST00000229854:c.911C>T,ENSP00000229854:p.Ala304Val,MCM3,CCDS4940.1,missense,chr6:52142455,G/A,probably_damaging(1),deleterious(0),4.99,9.68,YES,-,YES,-,-,-,-,-,-,-
+NEW - Euro trio,IS,NLES20,NLES20,1,snv,ENST00000306749.2:c.7388A>G,ENSP00000304592.2:p.Asn2463Ser,FASN,CCDS11801.1,missense,chr17:80037243,T/C,benign(0.005),tolerated(0.08),4.46,0.38,YES,-,-,-,-,-,YES,EEx1,-,-
+NEW - Euro trio,IS,NLES21,NLES21,1,snv,ENST00000394123.3:c.919C>T,ENSP00000377681.3:p.Arg307X,G3BP1,CCDS4319.1,stop gained,chr5:151179525,C/T,LoF (1),-,4,28.63,YES,-,-,-,-,-,-,-,-,-
+NEW - Euro trio,IS,NLES3,NLES3,1,snv,ENST00000368926.5:c.744C>A,ENSP00000357922.5:p.Cys248X,C1orf56,CCDS980.1,stop gained,chr1:151021067,C/A,LoF (1),-,1.64,73.27,-,-,-,-,-,-,-,-,-,-
+NEW - Euro trio,IS,NLES4,NLES4,3,snv,ENST00000256497.4:c.36C>A,ENST00000256497.4:c.36C>A(p.=),EDEM1,CCDS33686.1,synonymous,chr3:5229526,C/A,silent (0),-,0.661,9.17,-,-,-,-,-,-,-,-,-,-
+NEW - Euro trio,IS,NLES4,NLES4,3,snv,ENST00000240123.7:c.1178C>A,ENSP00000240123.7:p.Ala393Glu,SORBS3,CCDS6031.1,missense,chr8:22424369,C/A,probably_damaging(1),deleterious(0),5.73,69.72,-,-,-,YES,-,-,-,-,-,-
+NEW - Euro trio,IS,NLES4,NLES4,3,snv,ENST00000279907.7:c.712T>G,ENSP00000279907.7:p.Leu238Val,UHRF1BP1L,CCDS31882.1,missense,chr12:100489573,A/C,probably_damaging(0.998),deleterious(0),-5.34,95.38,-,-,-,-,-,-,YES,-,-,-
+NEW - Euro trio,IS,NLES7,NLES7,3,snv,ENST00000301067.7:c.12826G>A,ENSP00000301067.7:p.Glu4276Lys,MLL2,CCDS44873.1,missense,chr12:49425662,C/T,benign(0.164),deleterious(0.010),4.93,0.06,YES,-,-,-,-,-,YES,-,YES: synonymous DNM,-
+NEW - Euro trio,IS,NLES7,NLES7,3,snv,ENST00000348962.2:c.526A>G,ENSP00000343434.2:p.Thr176Ala,PTPRO,CCDS8674.1,missense,chr12:15652393,A/G,benign(0.2),tolerated(0.09),4.99,1.83,YES,-,-,-,-,-,-,-,-,-
+NEW - Euro trio,IS,NLES7,NLES7,3,snv,ENST00000372923.3:c.194C>A,ENSP00000362014.3:p.Thr65Asn,DNM1,CCDS6895.1,missense,chr9:130980542,C/A,probably_damaging(0.998),deleterious(0),5.46,19.54,YES,YES,YES,YES,-,YES,YES,EEx4,-,-
+NEW - Euro trio,IS,NLES8,NLES8,2,snv,ENST00000259455.2:c.2084G>T,ENSP00000259455.2:p.Ser695Ile,GABBR2,CCDS6736.1,missense,chr9:101068548,C/A,possibly_damaging(0.797),deleterious(0),5.15,5.08,YES,-,-,YES,-,YES,YES,EEx1,-,-
+NEW - Euro trio,IS,NLES8,NLES8,2,snv,ENST00000367698.3:c.686G>A,ENSP00000356671.3:p.Arg229Gln,SERPINC1,CCDS1313.1,missense,chr1:173879968,C/T,possibly_damaging(0.677),tolerated(0.05),2.55,50.22,YES,-,-,-,-,-,-,-,YES: missense DNM,-
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+"*2406 trios, 2405 when excluding the proband being highlighted in this table.",,,,,,,,,,,,,,,,,,,,,,,,,,
+** Indicates a second hot zone DNM in this proband (not illustrated in Figure 1B),,,,,,,,,,,,,,,,,,,,,,,,,,
+^ CHD2 synonymous de novo mutation is predicted to lead to a new donor splice site by both SpliceView and HumanSplicingFinder tools,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
