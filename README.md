@@ -2,7 +2,7 @@
 
 Posterior densities are in posterior_dists/posterior_densities.*.txt.gz
 
-Supplementary File 2 contains MAP estimates and 95% CIs.
+out/Supplementary_file_2 contains MAP estimates and 95% CIs.
 
 Ref: https://elifesciences.org/articles/83172
 
